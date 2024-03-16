@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "woodworks:block/cedar_planks",
+    "top": "woodworks:block/cedar_planks",
+    "side": "woodworks:block/cedar_planks"
+  },
+  "render_type": "solid"
+}

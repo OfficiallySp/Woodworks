@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "woodworks:block/maple_planks",
+    "particle": "woodworks:block/maple_planks"
+  },
+  "render_type": "solid"
+}

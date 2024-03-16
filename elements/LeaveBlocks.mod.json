@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MapleLeaves"
+      },
+      {
+        "value": "CUSTOM:PineLeaves"
+      },
+      {
+        "value": "CUSTOM:CedarLeaves"
+      },
+      {
+        "value": "CUSTOM:PalmLeaves"
+      },
+      {
+        "value": "CUSTOM:MangoLeaves"
+      },
+      {
+        "value": "CUSTOM:RubberLeaves"
+      },
+      {
+        "value": "TAG:minecraft:leaves"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

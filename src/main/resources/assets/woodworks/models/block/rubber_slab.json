@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "woodworks:block/rubber_planks",
+    "top": "woodworks:block/rubber_planks",
+    "side": "woodworks:block/rubber_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "woodworks:pine_log"
+    }
+  },
+  "result": {
+    "item": "woodworks:pine_wood",
+    "count": 3
+  }
+}

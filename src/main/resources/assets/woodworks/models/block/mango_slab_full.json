@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "woodworks:block/mango_planks",
+    "top": "woodworks:block/mango_planks",
+    "side": "woodworks:block/mango_planks"
+  },
+  "render_type": "solid"
+}

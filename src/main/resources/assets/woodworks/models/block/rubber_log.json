@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "woodworks:block/rubber_log_top",
+    "up": "woodworks:block/rubber_log_top",
+    "north": "woodworks:block/rubber_log_side",
+    "east": "woodworks:block/rubber_log_side",
+    "south": "woodworks:block/rubber_log_side",
+    "west": "woodworks:block/rubber_log_side",
+    "particle": "woodworks:block/rubber_log_top"
+  },
+  "render_type": "solid"
+}

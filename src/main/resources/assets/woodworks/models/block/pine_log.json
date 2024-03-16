@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "woodworks:block/pine_log_top",
+    "up": "woodworks:block/pine_log_top",
+    "north": "woodworks:block/pine_log_side",
+    "east": "woodworks:block/pine_log_side",
+    "south": "woodworks:block/pine_log_side",
+    "west": "woodworks:block/pine_log_side",
+    "particle": "woodworks:block/pine_log_top"
+  },
+  "render_type": "solid"
+}

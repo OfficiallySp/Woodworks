@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodworks:block/palm_log_side",
+    "particle": "woodworks:block/palm_log_side"
+  },
+  "render_type": "solid"
+}

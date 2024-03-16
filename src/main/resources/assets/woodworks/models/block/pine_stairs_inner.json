@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "woodworks:block/pine_planks",
+    "top": "woodworks:block/pine_planks",
+    "side": "woodworks:block/pine_planks"
+  },
+  "render_type": "solid"
+}

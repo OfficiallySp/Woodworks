@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "woodworks:block/mango_slab"
+    },
+    "type=top": {
+      "model": "woodworks:block/mango_slab_top"
+    },
+    "type=double": {
+      "model": "woodworks:block/mango_slab_full"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "woodworks:block/pine_pressure_plate"
+    },
+    "powered=true": {
+      "model": "woodworks:block/pine_pressure_plate_down"
+    }
+  }
+}

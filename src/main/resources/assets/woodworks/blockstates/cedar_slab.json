@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "woodworks:block/cedar_slab"
+    },
+    "type=top": {
+      "model": "woodworks:block/cedar_slab_top"
+    },
+    "type=double": {
+      "model": "woodworks:block/cedar_slab_full"
+    }
+  }
+}

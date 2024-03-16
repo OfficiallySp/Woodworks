@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "woodworks:pine_planks"
+    }
+  },
+  "result": {
+    "item": "woodworks:pine_slab",
+    "count": 6
+  }
+}

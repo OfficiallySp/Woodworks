@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "woodworks:mango_log"
+    }
+  ],
+  "result": {
+    "item": "woodworks:mango_planks",
+    "count": 4
+  }
+}

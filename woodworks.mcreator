@@ -1,0 +1,2183 @@
+{
+  "mod_elements": [
+    {
+      "name": "MapleWood",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/maple_wood.json",
+          "src/main/resources/assets/woodworks/models/block/maple_wood.json",
+          "src/main/java/com/officiallysp/woodworks/block/MapleWoodBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/maple_wood.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleLog",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/maple_log.json",
+          "src/main/resources/assets/woodworks/blockstates/maple_log.json",
+          "src/main/resources/assets/woodworks/models/item/maple_log.json",
+          "src/main/java/com/officiallysp/woodworks/block/MapleLogBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MaplePlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_planks",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/MaplePlanksBlock.java",
+          "src/main/resources/assets/woodworks/models/item/maple_planks.json",
+          "src/main/resources/assets/woodworks/models/block/maple_planks.json",
+          "src/main/resources/assets/woodworks/blockstates/maple_planks.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/maple_leaves.json",
+          "src/main/resources/assets/woodworks/blockstates/maple_leaves.json",
+          "src/main/java/com/officiallysp/woodworks/block/MapleLeavesBlock.java",
+          "src/main/resources/assets/woodworks/models/block/maple_leaves.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/maple_stairs_outer.json",
+          "src/main/resources/assets/woodworks/blockstates/maple_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/maple_stairs.json",
+          "src/main/java/com/officiallysp/woodworks/block/MapleStairsBlock.java",
+          "src/main/resources/assets/woodworks/models/block/maple_stairs_inner.json",
+          "src/main/resources/assets/woodworks/models/item/maple_stairs.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/MapleSlabBlock.java",
+          "src/main/resources/assets/woodworks/models/item/maple_slab.json",
+          "src/main/resources/assets/woodworks/blockstates/maple_slab.json",
+          "src/main/resources/assets/woodworks/models/block/maple_slab.json",
+          "src/main/resources/assets/woodworks/models/block/maple_slab_top.json",
+          "src/main/resources/assets/woodworks/models/block/maple_slab_full.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_fence",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/MapleFenceBlock.java",
+          "src/main/resources/assets/woodworks/models/block/maple_fence.json",
+          "src/main/resources/assets/woodworks/models/item/maple_fence.json",
+          "src/main/resources/assets/woodworks/models/block/maple_fence_inventory.json",
+          "src/main/resources/assets/woodworks/blockstates/maple_fence.json",
+          "src/main/resources/assets/woodworks/models/block/maple_fence_post.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/maple_fence_gate_wall_open.json",
+          "src/main/resources/assets/woodworks/models/block/maple_fence_gate_wall.json",
+          "src/main/resources/assets/woodworks/models/item/maple_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/maple_fence_gate_open.json",
+          "src/main/resources/assets/woodworks/blockstates/maple_fence_gate.json",
+          "src/main/java/com/officiallysp/woodworks/block/MapleFenceGateBlock.java",
+          "src/main/resources/assets/woodworks/models/block/maple_fence_gate.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MaplePressurePlate",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/maple_pressure_plate_down.json",
+          "src/main/resources/assets/woodworks/models/block/maple_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/item/maple_pressure_plate.json",
+          "src/main/java/com/officiallysp/woodworks/block/MaplePressurePlateBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/maple_pressure_plate.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleButton",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/maple_button_inventory.json",
+          "src/main/resources/assets/woodworks/models/item/maple_button.json",
+          "src/main/resources/assets/woodworks/models/block/maple_button_pressed.json",
+          "src/main/java/com/officiallysp/woodworks/block/MapleButtonBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/maple_button.json",
+          "src/main/resources/assets/woodworks/models/block/maple_button.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleWoodRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MaplePlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_planks_log_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MaplePlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_planks_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleStairsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_stairs_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleSlabRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_slab_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleFenceRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_fence_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_fence_gate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MaplePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_pressure_plate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleButtonRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_button_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "MapleStickRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maple_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/maple_stick_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Maple"
+    },
+    {
+      "name": "PineWood",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_wood",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/PineWoodBlock.java",
+          "src/main/resources/assets/woodworks/models/block/pine_wood.json",
+          "src/main/resources/assets/woodworks/blockstates/pine_wood.json",
+          "src/main/resources/assets/woodworks/models/item/pine_wood.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineLog",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_log",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/PineLogBlock.java",
+          "src/main/resources/assets/woodworks/models/block/pine_log.json",
+          "src/main/resources/assets/woodworks/blockstates/pine_log.json",
+          "src/main/resources/assets/woodworks/models/item/pine_log.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PinePlanks",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_planks",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/PinePlanksBlock.java",
+          "src/main/resources/assets/woodworks/models/block/pine_planks.json",
+          "src/main/resources/assets/woodworks/models/item/pine_planks.json",
+          "src/main/resources/assets/woodworks/blockstates/pine_planks.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineLeaves",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/blockstates/pine_leaves.json",
+          "src/main/java/com/officiallysp/woodworks/block/PineLeavesBlock.java",
+          "src/main/resources/assets/woodworks/models/item/pine_leaves.json",
+          "src/main/resources/assets/woodworks/models/block/pine_leaves.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineStairs",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/pine_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/pine_stairs_outer.json",
+          "src/main/resources/assets/woodworks/models/block/pine_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/pine_stairs_inner.json",
+          "src/main/resources/assets/woodworks/blockstates/pine_stairs.json",
+          "src/main/java/com/officiallysp/woodworks/block/PineStairsBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineSlab",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/PineSlabBlock.java",
+          "src/main/resources/assets/woodworks/models/item/pine_slab.json",
+          "src/main/resources/assets/woodworks/models/block/pine_slab_full.json",
+          "src/main/resources/assets/woodworks/blockstates/pine_slab.json",
+          "src/main/resources/assets/woodworks/models/block/pine_slab.json",
+          "src/main/resources/assets/woodworks/models/block/pine_slab_top.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineFence",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/pine_fence_post.json",
+          "src/main/java/com/officiallysp/woodworks/block/PineFenceBlock.java",
+          "src/main/resources/assets/woodworks/models/block/pine_fence.json",
+          "src/main/resources/assets/woodworks/models/item/pine_fence.json",
+          "src/main/resources/assets/woodworks/blockstates/pine_fence.json",
+          "src/main/resources/assets/woodworks/models/block/pine_fence_inventory.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineFenceGate",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/pine_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/pine_fence_gate_wall.json",
+          "src/main/resources/assets/woodworks/blockstates/pine_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/pine_fence_gate_open.json",
+          "src/main/java/com/officiallysp/woodworks/block/PineFenceGateBlock.java",
+          "src/main/resources/assets/woodworks/models/item/pine_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/pine_fence_gate_wall_open.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PinePressurePlate",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/pine_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/item/pine_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/block/pine_pressure_plate_down.json",
+          "src/main/java/com/officiallysp/woodworks/block/PinePressurePlateBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/pine_pressure_plate.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineButton",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/pine_button_pressed.json",
+          "src/main/resources/assets/woodworks/models/item/pine_button.json",
+          "src/main/resources/assets/woodworks/models/block/pine_button_inventory.json",
+          "src/main/resources/assets/woodworks/models/block/pine_button.json",
+          "src/main/java/com/officiallysp/woodworks/block/PineButtonBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/pine_button.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineWoodRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PinePlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_planks_log_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PinePlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_planks_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineStairsRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_stairs_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineSlabRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_slab_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineFenceRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_fence_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_fence_gate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PinePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_pressure_plate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineButtonRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_button_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "PineStickRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/pine_stick_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Pine"
+    },
+    {
+      "name": "CedarWood",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/cedar_wood.json",
+          "src/main/resources/assets/woodworks/blockstates/cedar_wood.json",
+          "src/main/resources/assets/woodworks/models/item/cedar_wood.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarWoodBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarLog",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/blockstates/cedar_log.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_log.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarLogBlock.java",
+          "src/main/resources/assets/woodworks/models/item/cedar_log.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarPlanks",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/cedar_planks.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_planks.json",
+          "src/main/resources/assets/woodworks/blockstates/cedar_planks.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarPlanksBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarLeaves",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/blockstates/cedar_leaves.json",
+          "src/main/resources/assets/woodworks/models/item/cedar_leaves.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_leaves.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarLeavesBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarStairs",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/blockstates/cedar_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_stairs_outer.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarStairsBlock.java",
+          "src/main/resources/assets/woodworks/models/item/cedar_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_stairs_inner.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarSlab",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/cedar_slab_top.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_slab.json",
+          "src/main/resources/assets/woodworks/blockstates/cedar_slab.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarSlabBlock.java",
+          "src/main/resources/assets/woodworks/models/block/cedar_slab_full.json",
+          "src/main/resources/assets/woodworks/models/item/cedar_slab.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarFence",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/cedar_fence_inventory.json",
+          "src/main/resources/assets/woodworks/models/item/cedar_fence.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_fence.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarFenceBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/cedar_fence.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_fence_post.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarFenceGate",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/cedar_fence_gate.json",
+          "src/main/resources/assets/woodworks/blockstates/cedar_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_fence_gate.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarFenceGateBlock.java",
+          "src/main/resources/assets/woodworks/models/block/cedar_fence_gate_open.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_fence_gate_wall_open.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_fence_gate_wall.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarPressurePlate",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/cedar_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_pressure_plate_down.json",
+          "src/main/java/com/officiallysp/woodworks/block/CedarPressurePlateBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/cedar_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/item/cedar_pressure_plate.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarButton",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_button",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/CedarButtonBlock.java",
+          "src/main/resources/assets/woodworks/models/block/cedar_button_pressed.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_button_inventory.json",
+          "src/main/resources/assets/woodworks/blockstates/cedar_button.json",
+          "src/main/resources/assets/woodworks/models/block/cedar_button.json",
+          "src/main/resources/assets/woodworks/models/item/cedar_button.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarWoodRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarPlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_planks_log_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarPlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_planks_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarStairsRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_stairs_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarSlabRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_slab_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarFenceRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_fence_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_fence_gate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_pressure_plate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarButtonRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_button_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "CedarStickRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cedar_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/cedar_stick_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Cedar"
+    },
+    {
+      "name": "PalmWood",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_wood",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/PalmWoodBlock.java",
+          "src/main/resources/assets/woodworks/models/item/palm_wood.json",
+          "src/main/resources/assets/woodworks/models/block/palm_wood.json",
+          "src/main/resources/assets/woodworks/blockstates/palm_wood.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmLog",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_log",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/PalmLogBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/palm_log.json",
+          "src/main/resources/assets/woodworks/models/item/palm_log.json",
+          "src/main/resources/assets/woodworks/models/block/palm_log.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmPlanks",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/palm_planks.json",
+          "src/main/java/com/officiallysp/woodworks/block/PalmPlanksBlock.java",
+          "src/main/resources/assets/woodworks/models/block/palm_planks.json",
+          "src/main/resources/assets/woodworks/blockstates/palm_planks.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmLeaves",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/palm_leaves.json",
+          "src/main/resources/assets/woodworks/models/item/palm_leaves.json",
+          "src/main/java/com/officiallysp/woodworks/block/PalmLeavesBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/palm_leaves.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmStairs",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/palm_stairs.json",
+          "src/main/java/com/officiallysp/woodworks/block/PalmStairsBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/palm_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/palm_stairs_inner.json",
+          "src/main/resources/assets/woodworks/models/block/palm_stairs_outer.json",
+          "src/main/resources/assets/woodworks/models/item/palm_stairs.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmSlab",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/palm_slab_top.json",
+          "src/main/resources/assets/woodworks/models/block/palm_slab_full.json",
+          "src/main/resources/assets/woodworks/models/item/palm_slab.json",
+          "src/main/java/com/officiallysp/woodworks/block/PalmSlabBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/palm_slab.json",
+          "src/main/resources/assets/woodworks/models/block/palm_slab.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmFence",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/palm_fence.json",
+          "src/main/resources/assets/woodworks/blockstates/palm_fence.json",
+          "src/main/resources/assets/woodworks/models/block/palm_fence.json",
+          "src/main/resources/assets/woodworks/models/block/palm_fence_post.json",
+          "src/main/resources/assets/woodworks/models/block/palm_fence_inventory.json",
+          "src/main/java/com/officiallysp/woodworks/block/PalmFenceBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmFenceGate",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/palm_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/palm_fence_gate_wall.json",
+          "src/main/resources/assets/woodworks/models/block/palm_fence_gate_wall_open.json",
+          "src/main/java/com/officiallysp/woodworks/block/PalmFenceGateBlock.java",
+          "src/main/resources/assets/woodworks/models/block/palm_fence_gate_open.json",
+          "src/main/resources/assets/woodworks/blockstates/palm_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/palm_fence_gate.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmPressurePlate",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/palm_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/block/palm_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/block/palm_pressure_plate_down.json",
+          "src/main/resources/assets/woodworks/blockstates/palm_pressure_plate.json",
+          "src/main/java/com/officiallysp/woodworks/block/PalmPressurePlateBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmButton",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_button",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/PalmButtonBlock.java",
+          "src/main/resources/assets/woodworks/models/block/palm_button_pressed.json",
+          "src/main/resources/assets/woodworks/models/item/palm_button.json",
+          "src/main/resources/assets/woodworks/models/block/palm_button_inventory.json",
+          "src/main/resources/assets/woodworks/models/block/palm_button.json",
+          "src/main/resources/assets/woodworks/blockstates/palm_button.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmWoodRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmPlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_planks_log_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmPlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_planks_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmStairsRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_stairs_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmSlabRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_slab_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmFenceRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_fence_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_fence_gate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_pressure_plate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmButtonRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_button_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "PalmStickRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/palm_stick_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Palm"
+    },
+    {
+      "name": "MangoWood",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/mango_wood.json",
+          "src/main/java/com/officiallysp/woodworks/block/MangoWoodBlock.java",
+          "src/main/resources/assets/woodworks/models/block/mango_wood.json",
+          "src/main/resources/assets/woodworks/blockstates/mango_wood.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoLog",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/blockstates/mango_log.json",
+          "src/main/java/com/officiallysp/woodworks/block/MangoLogBlock.java",
+          "src/main/resources/assets/woodworks/models/block/mango_log.json",
+          "src/main/resources/assets/woodworks/models/item/mango_log.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoPlanks",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/mango_planks.json",
+          "src/main/resources/assets/woodworks/models/item/mango_planks.json",
+          "src/main/java/com/officiallysp/woodworks/block/MangoPlanksBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/mango_planks.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoLeaves",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_leaves",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/MangoLeavesBlock.java",
+          "src/main/resources/assets/woodworks/models/block/mango_leaves.json",
+          "src/main/resources/assets/woodworks/blockstates/mango_leaves.json",
+          "src/main/resources/assets/woodworks/models/item/mango_leaves.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoStairs",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/blockstates/mango_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/mango_stairs_outer.json",
+          "src/main/resources/assets/woodworks/models/block/mango_stairs_inner.json",
+          "src/main/resources/assets/woodworks/models/block/mango_stairs.json",
+          "src/main/resources/assets/woodworks/models/item/mango_stairs.json",
+          "src/main/java/com/officiallysp/woodworks/block/MangoStairsBlock.java"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoSlab",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/MangoSlabBlock.java",
+          "src/main/resources/assets/woodworks/models/block/mango_slab_full.json",
+          "src/main/resources/assets/woodworks/blockstates/mango_slab.json",
+          "src/main/resources/assets/woodworks/models/item/mango_slab.json",
+          "src/main/resources/assets/woodworks/models/block/mango_slab_top.json",
+          "src/main/resources/assets/woodworks/models/block/mango_slab.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoFence",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/mango_fence.json",
+          "src/main/resources/assets/woodworks/models/block/mango_fence.json",
+          "src/main/java/com/officiallysp/woodworks/block/MangoFenceBlock.java",
+          "src/main/resources/assets/woodworks/models/block/mango_fence_post.json",
+          "src/main/resources/assets/woodworks/blockstates/mango_fence.json",
+          "src/main/resources/assets/woodworks/models/block/mango_fence_inventory.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoFenceGate",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/MangoFenceGateBlock.java",
+          "src/main/resources/assets/woodworks/models/item/mango_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/mango_fence_gate_open.json",
+          "src/main/resources/assets/woodworks/models/block/mango_fence_gate_wall.json",
+          "src/main/resources/assets/woodworks/blockstates/mango_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/mango_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/mango_fence_gate_wall_open.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoPressurePlate",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/MangoPressurePlateBlock.java",
+          "src/main/resources/assets/woodworks/models/item/mango_pressure_plate.json",
+          "src/main/resources/assets/woodworks/blockstates/mango_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/block/mango_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/block/mango_pressure_plate_down.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoButton",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/mango_button.json",
+          "src/main/resources/assets/woodworks/models/item/mango_button.json",
+          "src/main/java/com/officiallysp/woodworks/block/MangoButtonBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/mango_button.json",
+          "src/main/resources/assets/woodworks/models/block/mango_button_inventory.json",
+          "src/main/resources/assets/woodworks/models/block/mango_button_pressed.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoWoodRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoPlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_planks_log_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoPlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_planks_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoStairsRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_stairs_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoSlabRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_slab_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoFenceRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_fence_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_fence_gate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_pressure_plate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoButtonRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_button_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoStickRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/mango_stick_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "RubberWood",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/rubber_wood.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_wood.json",
+          "src/main/java/com/officiallysp/woodworks/block/RubberWoodBlock.java",
+          "src/main/resources/assets/woodworks/models/item/rubber_wood.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberLog",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/rubber_log.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_log.json",
+          "src/main/java/com/officiallysp/woodworks/block/RubberLogBlock.java",
+          "src/main/resources/assets/woodworks/models/block/rubber_log.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberPlanks",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_planks",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/RubberPlanksBlock.java",
+          "src/main/resources/assets/woodworks/blockstates/rubber_planks.json",
+          "src/main/resources/assets/woodworks/models/item/rubber_planks.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_planks.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberLeaves",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_leaves",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/RubberLeavesBlock.java",
+          "src/main/resources/assets/woodworks/models/item/rubber_leaves.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_leaves.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_leaves.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberStairs",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/rubber_stairs_outer.json",
+          "src/main/java/com/officiallysp/woodworks/block/RubberStairsBlock.java",
+          "src/main/resources/assets/woodworks/models/block/rubber_stairs_inner.json",
+          "src/main/resources/assets/woodworks/models/item/rubber_stairs.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_stairs.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_stairs.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberSlab",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/blockstates/rubber_slab.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_slab_full.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_slab_top.json",
+          "src/main/java/com/officiallysp/woodworks/block/RubberSlabBlock.java",
+          "src/main/resources/assets/woodworks/models/item/rubber_slab.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_slab.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberFence",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/rubber_fence.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_fence.json",
+          "src/main/java/com/officiallysp/woodworks/block/RubberFenceBlock.java",
+          "src/main/resources/assets/woodworks/models/block/rubber_fence_inventory.json",
+          "src/main/resources/assets/woodworks/models/item/rubber_fence.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_fence_post.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberFenceGate",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/block/RubberFenceGateBlock.java",
+          "src/main/resources/assets/woodworks/models/block/rubber_fence_gate_wall.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_fence_gate_open.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_fence_gate.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_fence_gate_wall_open.json",
+          "src/main/resources/assets/woodworks/models/item/rubber_fence_gate.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_fence_gate.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberPressurePlate",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/block/rubber_pressure_plate_down.json",
+          "src/main/java/com/officiallysp/woodworks/block/RubberPressurePlateBlock.java",
+          "src/main/resources/assets/woodworks/models/item/rubber_pressure_plate.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_pressure_plate.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_pressure_plate.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberButton",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/woodworks/models/item/rubber_button.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_button.json",
+          "src/main/resources/assets/woodworks/blockstates/rubber_button.json",
+          "src/main/java/com/officiallysp/woodworks/block/RubberButtonBlock.java",
+          "src/main/resources/assets/woodworks/models/block/rubber_button_inventory.json",
+          "src/main/resources/assets/woodworks/models/block/rubber_button_pressed.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberWoodRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberPlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_planks_log_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberPlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_planks_wood_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberStairsRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_stairs_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberSlabRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_slab_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberFenceRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_fence_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_fence_gate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_pressure_plate_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberButtonRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_button_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "RubberStickRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubber_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/woodworks/recipes/rubber_stick_recipe.json"
+        ]
+      },
+      "path": "~/WoodTypes/Rubber"
+    },
+    {
+      "name": "WoodworkerGUI",
+      "type": "gui",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodworker_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/client/gui/WoodworkerGUIScreen.java",
+          "src/main/java/com/officiallysp/woodworks/world/inventory/WoodworkerGUIMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "Mango",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/item/MangoItem.java",
+          "src/main/resources/assets/woodworks/models/item/mango.json"
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "MangoLeavesBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mango_leaves_block_destroyed_by_player",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/procedures/MangoLeavesBlockDestroyedByPlayerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/WoodTypes/Mango"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/logs.json"
+        ]
+      }
+    },
+    {
+      "name": "FenceBlocks",
+      "type": "tag",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fence_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/fences.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodenFenceBlocks",
+      "type": "tag",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_fence_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/wooden_fences.json"
+        ]
+      }
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/leaves.json"
+        ]
+      }
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plank_items",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/items/planks.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.woodworks.cedar_log": "Cedar Log",
+      "block.woodworks.cedar_button": "Cedar Button",
+      "block.woodworks.rubber_planks": "Rubber Planks",
+      "block.woodworks.palm_pressure_plate": "Palm Pressure Plate",
+      "block.woodworks.palm_leaves": "Palm Leaves",
+      "block.woodworks.pine_button": "Pine Button",
+      "block.woodworks.rubber_log": "Rubber Log",
+      "block.woodworks.cedar_slab": "Cedar Slab",
+      "block.woodworks.maple_fence_gate": "Maple Fence Gate",
+      "block.woodworks.rubber_leaves": "Rubber Leaves",
+      "block.woodworks.maple_button": "Maple Button",
+      "block.woodworks.maple_log": "Maple Log",
+      "block.woodworks.mango_planks": "Mango Planks",
+      "block.woodworks.mango_leaves": "Mango Leaves",
+      "block.woodworks.mango_fence_gate": "Mango Fence Gate",
+      "block.woodworks.rubber_fence_gate": "Rubber Fence Gate",
+      "block.woodworks.pine_slab": "Pine Slab",
+      "block.woodworks.cedar_wood": "Cedar Wood",
+      "block.woodworks.mango_slab": "Mango Slab",
+      "block.woodworks.mango_fence": "Mango Fence",
+      "block.woodworks.mango_button": "Mango Button",
+      "block.woodworks.mango_pressure_plate": "Mango Pressure Plate",
+      "block.woodworks.rubber_stairs": "Rubber Stairs",
+      "gui.woodworks.woodworker_gui.label_woodworking": "Wood Working",
+      "block.woodworks.palm_fence_gate": "Palm Fence Gate",
+      "block.woodworks.rubber_pressure_plate": "Rubber Pressure Plate",
+      "block.woodworks.pine_wood": "Pine Wood",
+      "block.woodworks.palm_stairs": "Palm Stairs",
+      "block.woodworks.pine_pressure_plate": "Pine Pressure Plate",
+      "block.woodworks.mango_wood": "Mango Wood",
+      "block.woodworks.cedar_stairs": "Cedar Stairs",
+      "block.woodworks.maple_wood": "Maple Wood",
+      "block.woodworks.palm_planks": "Palm Planks",
+      "block.woodworks.mango_stairs": "Mango Stairs",
+      "block.woodworks.mango_log": "Mango Log",
+      "block.woodworks.maple_slab": "Maple Slab",
+      "block.woodworks.cedar_leaves": "Cedar Leaves",
+      "block.woodworks.cedar_fence": "Cedar Fence",
+      "block.woodworks.cedar_planks": "Cedar Planks",
+      "block.woodworks.pine_leaves": "Pine Leaves",
+      "block.woodworks.palm_button": "Palm Button",
+      "block.woodworks.pine_fence_gate": "Pine Fence Gate",
+      "block.woodworks.pine_planks": "Pine Planks",
+      "block.woodworks.rubber_button": "Rubber Button",
+      "item.woodworks.mango": "Mango",
+      "block.woodworks.pine_log": "Pine Log",
+      "block.woodworks.rubber_fence": "Rubber Fence",
+      "block.woodworks.maple_planks": "Maple Planks",
+      "block.woodworks.cedar_pressure_plate": "Cedar Pressure Plate",
+      "block.woodworks.maple_pressure_plate": "Maple Pressure Plate",
+      "block.woodworks.maple_stairs": "Maple Stairs",
+      "block.woodworks.palm_fence": "Palm Fence",
+      "block.woodworks.maple_fence": "Maple Fence",
+      "block.woodworks.palm_log": "Palm Log",
+      "block.woodworks.rubber_slab": "Rubber Slab",
+      "block.woodworks.pine_stairs": "Pine Stairs",
+      "block.woodworks.pine_fence": "Pine Fence",
+      "block.woodworks.rubber_wood": "Rubber Wood",
+      "block.woodworks.maple_leaves": "Maple Leaves",
+      "block.woodworks.palm_slab": "Palm Slab",
+      "gui.woodworks.woodworker_gui.button_process": "Process",
+      "block.woodworks.cedar_fence_gate": "Cedar Fence Gate",
+      "block.woodworks.palm_wood": "Palm Wood"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "WoodTypes",
+        "children": [
+          {
+            "name": "Maple",
+            "children": []
+          },
+          {
+            "name": "Pine",
+            "children": []
+          },
+          {
+            "name": "Cedar",
+            "children": []
+          },
+          {
+            "name": "Palm",
+            "children": []
+          },
+          {
+            "name": "Mango",
+            "children": []
+          },
+          {
+            "name": "Rubber",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "woodworks",
+    "modName": "Woodworks",
+    "version": "1.0.0",
+    "author": "Shane, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "com.officiallysp.woodworks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

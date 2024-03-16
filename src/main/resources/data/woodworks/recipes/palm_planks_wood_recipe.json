@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "woodworks:palm_wood"
+    }
+  ],
+  "result": {
+    "item": "woodworks:palm_planks",
+    "count": 4
+  }
+}

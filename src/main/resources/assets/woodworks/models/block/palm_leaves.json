@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodworks:block/palm_leaves",
+    "particle": "woodworks:block/palm_leaves"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "woodworks:maple_leaves",
+    "woodworks:pine_leaves",
+    "woodworks:cedar_leaves",
+    "woodworks:palm_leaves",
+    "woodworks:mango_leaves",
+    "woodworks:rubber_leaves"
+  ]
+}

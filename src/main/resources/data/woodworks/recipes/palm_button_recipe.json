@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "woodworks:palm_planks"
+    }
+  ],
+  "result": {
+    "item": "woodworks:palm_button",
+    "count": 1
+  }
+}
