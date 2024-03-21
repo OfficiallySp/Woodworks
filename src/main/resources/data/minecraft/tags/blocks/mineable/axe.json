@@ -23,7 +23,9 @@
     "woodworks:beech_log",
     "woodworks:beech_planks",
     "woodworks:willow_wood",
+    "woodworks:stripped_willow_wood",
     "woodworks:willow_log",
+    "woodworks:stripped_willow_log",
     "woodworks:willow_planks",
     "woodworks:aspen_wood",
     "woodworks:aspen_log",
@@ -45,8 +47,6 @@
     "woodworks:teak_planks",
     "woodworks:kapok_wood",
     "woodworks:kapok_log",
-    "woodworks:kapok_planks",
-    "woodworks:stripped_willow_wood",
-    "woodworks:stripped_willow_log"
+    "woodworks:kapok_planks"
   ]
 }

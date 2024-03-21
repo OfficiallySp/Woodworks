@@ -20,7 +20,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> MAPLE_LOG = block(WoodworksModBlocks.MAPLE_LOG);
 	public static final RegistryObject<Item> MAPLE_WOOD = block(WoodworksModBlocks.MAPLE_WOOD);
 	public static final RegistryObject<Item> MAPLE_PLANKS = block(WoodworksModBlocks.MAPLE_PLANKS);
-	public static final RegistryObject<Item> MAPLE_LEAVES = block(WoodworksModBlocks.MAPLE_LEAVES);
 	public static final RegistryObject<Item> MAPLE_STAIRS = block(WoodworksModBlocks.MAPLE_STAIRS);
 	public static final RegistryObject<Item> MAPLE_SLAB = block(WoodworksModBlocks.MAPLE_SLAB);
 	public static final RegistryObject<Item> MAPLE_FENCE = block(WoodworksModBlocks.MAPLE_FENCE);
@@ -30,7 +29,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> PINE_WOOD = block(WoodworksModBlocks.PINE_WOOD);
 	public static final RegistryObject<Item> PINE_LOG = block(WoodworksModBlocks.PINE_LOG);
 	public static final RegistryObject<Item> PINE_PLANKS = block(WoodworksModBlocks.PINE_PLANKS);
-	public static final RegistryObject<Item> PINE_LEAVES = block(WoodworksModBlocks.PINE_LEAVES);
 	public static final RegistryObject<Item> PINE_STAIRS = block(WoodworksModBlocks.PINE_STAIRS);
 	public static final RegistryObject<Item> PINE_SLAB = block(WoodworksModBlocks.PINE_SLAB);
 	public static final RegistryObject<Item> PINE_FENCE = block(WoodworksModBlocks.PINE_FENCE);
@@ -40,7 +38,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> CEDAR_WOOD = block(WoodworksModBlocks.CEDAR_WOOD);
 	public static final RegistryObject<Item> CEDAR_LOG = block(WoodworksModBlocks.CEDAR_LOG);
 	public static final RegistryObject<Item> CEDAR_PLANKS = block(WoodworksModBlocks.CEDAR_PLANKS);
-	public static final RegistryObject<Item> CEDAR_LEAVES = block(WoodworksModBlocks.CEDAR_LEAVES);
 	public static final RegistryObject<Item> CEDAR_STAIRS = block(WoodworksModBlocks.CEDAR_STAIRS);
 	public static final RegistryObject<Item> CEDAR_SLAB = block(WoodworksModBlocks.CEDAR_SLAB);
 	public static final RegistryObject<Item> CEDAR_FENCE = block(WoodworksModBlocks.CEDAR_FENCE);
@@ -50,7 +47,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> PALM_WOOD = block(WoodworksModBlocks.PALM_WOOD);
 	public static final RegistryObject<Item> PALM_LOG = block(WoodworksModBlocks.PALM_LOG);
 	public static final RegistryObject<Item> PALM_PLANKS = block(WoodworksModBlocks.PALM_PLANKS);
-	public static final RegistryObject<Item> PALM_LEAVES = block(WoodworksModBlocks.PALM_LEAVES);
 	public static final RegistryObject<Item> PALM_STAIRS = block(WoodworksModBlocks.PALM_STAIRS);
 	public static final RegistryObject<Item> PALM_SLAB = block(WoodworksModBlocks.PALM_SLAB);
 	public static final RegistryObject<Item> PALM_FENCE = block(WoodworksModBlocks.PALM_FENCE);
@@ -60,7 +56,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> MANGO_WOOD = block(WoodworksModBlocks.MANGO_WOOD);
 	public static final RegistryObject<Item> MANGO_LOG = block(WoodworksModBlocks.MANGO_LOG);
 	public static final RegistryObject<Item> MANGO_PLANKS = block(WoodworksModBlocks.MANGO_PLANKS);
-	public static final RegistryObject<Item> MANGO_LEAVES = block(WoodworksModBlocks.MANGO_LEAVES);
 	public static final RegistryObject<Item> MANGO_STAIRS = block(WoodworksModBlocks.MANGO_STAIRS);
 	public static final RegistryObject<Item> MANGO_SLAB = block(WoodworksModBlocks.MANGO_SLAB);
 	public static final RegistryObject<Item> MANGO_FENCE = block(WoodworksModBlocks.MANGO_FENCE);
@@ -70,18 +65,15 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> RUBBER_WOOD = block(WoodworksModBlocks.RUBBER_WOOD);
 	public static final RegistryObject<Item> RUBBER_LOG = block(WoodworksModBlocks.RUBBER_LOG);
 	public static final RegistryObject<Item> RUBBER_PLANKS = block(WoodworksModBlocks.RUBBER_PLANKS);
-	public static final RegistryObject<Item> RUBBER_LEAVES = block(WoodworksModBlocks.RUBBER_LEAVES);
 	public static final RegistryObject<Item> RUBBER_STAIRS = block(WoodworksModBlocks.RUBBER_STAIRS);
 	public static final RegistryObject<Item> RUBBER_SLAB = block(WoodworksModBlocks.RUBBER_SLAB);
 	public static final RegistryObject<Item> RUBBER_FENCE = block(WoodworksModBlocks.RUBBER_FENCE);
 	public static final RegistryObject<Item> RUBBER_FENCE_GATE = block(WoodworksModBlocks.RUBBER_FENCE_GATE);
 	public static final RegistryObject<Item> RUBBER_PRESSURE_PLATE = block(WoodworksModBlocks.RUBBER_PRESSURE_PLATE);
 	public static final RegistryObject<Item> RUBBER_BUTTON = block(WoodworksModBlocks.RUBBER_BUTTON);
-	public static final RegistryObject<Item> MANGO = REGISTRY.register("mango", () -> new MangoItem());
 	public static final RegistryObject<Item> BEECH_WOOD = block(WoodworksModBlocks.BEECH_WOOD);
 	public static final RegistryObject<Item> BEECH_LOG = block(WoodworksModBlocks.BEECH_LOG);
 	public static final RegistryObject<Item> BEECH_PLANKS = block(WoodworksModBlocks.BEECH_PLANKS);
-	public static final RegistryObject<Item> BEECH_LEAVES = block(WoodworksModBlocks.BEECH_LEAVES);
 	public static final RegistryObject<Item> BEECH_STAIRS = block(WoodworksModBlocks.BEECH_STAIRS);
 	public static final RegistryObject<Item> BEECH_SLAB = block(WoodworksModBlocks.BEECH_SLAB);
 	public static final RegistryObject<Item> BEECH_FENCE = block(WoodworksModBlocks.BEECH_FENCE);
@@ -89,9 +81,10 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> BEECH_PRESSURE_PLATE = block(WoodworksModBlocks.BEECH_PRESSURE_PLATE);
 	public static final RegistryObject<Item> BEECH_BUTTON = block(WoodworksModBlocks.BEECH_BUTTON);
 	public static final RegistryObject<Item> WILLOW_WOOD = block(WoodworksModBlocks.WILLOW_WOOD);
+	public static final RegistryObject<Item> STRIPPED_WILLOW_WOOD = block(WoodworksModBlocks.STRIPPED_WILLOW_WOOD);
 	public static final RegistryObject<Item> WILLOW_LOG = block(WoodworksModBlocks.WILLOW_LOG);
+	public static final RegistryObject<Item> STRIPPED_WILLOW_LOG = block(WoodworksModBlocks.STRIPPED_WILLOW_LOG);
 	public static final RegistryObject<Item> WILLOW_PLANKS = block(WoodworksModBlocks.WILLOW_PLANKS);
-	public static final RegistryObject<Item> WILLOW_LEAVES = block(WoodworksModBlocks.WILLOW_LEAVES);
 	public static final RegistryObject<Item> WILLOW_STAIRS = block(WoodworksModBlocks.WILLOW_STAIRS);
 	public static final RegistryObject<Item> WILLOW_SLAB = block(WoodworksModBlocks.WILLOW_SLAB);
 	public static final RegistryObject<Item> WILLOW_FENCE = block(WoodworksModBlocks.WILLOW_FENCE);
@@ -101,7 +94,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> ASPEN_WOOD = block(WoodworksModBlocks.ASPEN_WOOD);
 	public static final RegistryObject<Item> ASPEN_LOG = block(WoodworksModBlocks.ASPEN_LOG);
 	public static final RegistryObject<Item> ASPEN_PLANKS = block(WoodworksModBlocks.ASPEN_PLANKS);
-	public static final RegistryObject<Item> ASPEN_LEAVES = block(WoodworksModBlocks.ASPEN_LEAVES);
 	public static final RegistryObject<Item> ASPEN_STAIRS = block(WoodworksModBlocks.ASPEN_STAIRS);
 	public static final RegistryObject<Item> ASPEN_SLAB = block(WoodworksModBlocks.ASPEN_SLAB);
 	public static final RegistryObject<Item> ASPEN_FENCE = block(WoodworksModBlocks.ASPEN_FENCE);
@@ -111,7 +103,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> JOSHUA_WOOD = block(WoodworksModBlocks.JOSHUA_WOOD);
 	public static final RegistryObject<Item> JOSHUA_LOG = block(WoodworksModBlocks.JOSHUA_LOG);
 	public static final RegistryObject<Item> JOSHUA_PLANKS = block(WoodworksModBlocks.JOSHUA_PLANKS);
-	public static final RegistryObject<Item> JOSHUA_LEAVES = block(WoodworksModBlocks.JOSHUA_LEAVES);
 	public static final RegistryObject<Item> JOSHUA_STAIRS = block(WoodworksModBlocks.JOSHUA_STAIRS);
 	public static final RegistryObject<Item> JOSHUA_SLAB = block(WoodworksModBlocks.JOSHUA_SLAB);
 	public static final RegistryObject<Item> JOSHUA_FENCE = block(WoodworksModBlocks.JOSHUA_FENCE);
@@ -121,7 +112,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> BAOBAB_WOOD = block(WoodworksModBlocks.BAOBAB_WOOD);
 	public static final RegistryObject<Item> BAOBAB_LOG = block(WoodworksModBlocks.BAOBAB_LOG);
 	public static final RegistryObject<Item> BAOBAB_PLANKS = block(WoodworksModBlocks.BAOBAB_PLANKS);
-	public static final RegistryObject<Item> BAOBAB_LEAVES = block(WoodworksModBlocks.BAOBAB_LEAVES);
 	public static final RegistryObject<Item> BAOBAB_STAIRS = block(WoodworksModBlocks.BAOBAB_STAIRS);
 	public static final RegistryObject<Item> BAOBAB_SLAB = block(WoodworksModBlocks.BAOBAB_SLAB);
 	public static final RegistryObject<Item> BAOBAB_FENCE = block(WoodworksModBlocks.BAOBAB_FENCE);
@@ -131,7 +121,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> CACTUS_WOOD = block(WoodworksModBlocks.CACTUS_WOOD);
 	public static final RegistryObject<Item> CACTUS_LOG = block(WoodworksModBlocks.CACTUS_LOG);
 	public static final RegistryObject<Item> CACTUS_PLANKS = block(WoodworksModBlocks.CACTUS_PLANKS);
-	public static final RegistryObject<Item> CACTUS_LEAVES = block(WoodworksModBlocks.CACTUS_LEAVES);
 	public static final RegistryObject<Item> CACTUS_STAIRS = block(WoodworksModBlocks.CACTUS_STAIRS);
 	public static final RegistryObject<Item> CACTUS_SLAB = block(WoodworksModBlocks.CACTUS_SLAB);
 	public static final RegistryObject<Item> CACTUS_FENCE = block(WoodworksModBlocks.CACTUS_FENCE);
@@ -141,7 +130,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> MAHOGANY_WOOD = block(WoodworksModBlocks.MAHOGANY_WOOD);
 	public static final RegistryObject<Item> MAHOGANY_LOG = block(WoodworksModBlocks.MAHOGANY_LOG);
 	public static final RegistryObject<Item> MAHOGANY_PLANKS = block(WoodworksModBlocks.MAHOGANY_PLANKS);
-	public static final RegistryObject<Item> MAHOGANY_LEAVES = block(WoodworksModBlocks.MAHOGANY_LEAVES);
 	public static final RegistryObject<Item> MAHOGANY_STAIRS = block(WoodworksModBlocks.MAHOGANY_STAIRS);
 	public static final RegistryObject<Item> MAHOGANY_SLAB = block(WoodworksModBlocks.MAHOGANY_SLAB);
 	public static final RegistryObject<Item> MAHOGANY_FENCE = block(WoodworksModBlocks.MAHOGANY_FENCE);
@@ -151,7 +139,6 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> TEAK_WOOD = block(WoodworksModBlocks.TEAK_WOOD);
 	public static final RegistryObject<Item> TEAK_LOG = block(WoodworksModBlocks.TEAK_LOG);
 	public static final RegistryObject<Item> TEAK_PLANKS = block(WoodworksModBlocks.TEAK_PLANKS);
-	public static final RegistryObject<Item> TEAK_LEAVES = block(WoodworksModBlocks.TEAK_LEAVES);
 	public static final RegistryObject<Item> TEAK_STAIRS = block(WoodworksModBlocks.TEAK_STAIRS);
 	public static final RegistryObject<Item> TEAK_SLAB = block(WoodworksModBlocks.TEAK_SLAB);
 	public static final RegistryObject<Item> TEAK_FENCE = block(WoodworksModBlocks.TEAK_FENCE);
@@ -161,19 +148,32 @@ public class WoodworksModItems {
 	public static final RegistryObject<Item> KAPOK_WOOD = block(WoodworksModBlocks.KAPOK_WOOD);
 	public static final RegistryObject<Item> KAPOK_LOG = block(WoodworksModBlocks.KAPOK_LOG);
 	public static final RegistryObject<Item> KAPOK_PLANKS = block(WoodworksModBlocks.KAPOK_PLANKS);
-	public static final RegistryObject<Item> KAPOK_LEAVES = block(WoodworksModBlocks.KAPOK_LEAVES);
 	public static final RegistryObject<Item> KAPOK_STAIRS = block(WoodworksModBlocks.KAPOK_STAIRS);
 	public static final RegistryObject<Item> KAPOK_SLAB = block(WoodworksModBlocks.KAPOK_SLAB);
 	public static final RegistryObject<Item> KAPOK_FENCE = block(WoodworksModBlocks.KAPOK_FENCE);
 	public static final RegistryObject<Item> KAPOK_FENCE_GATE = block(WoodworksModBlocks.KAPOK_FENCE_GATE);
 	public static final RegistryObject<Item> KAPOK_PRESSURE_PLATE = block(WoodworksModBlocks.KAPOK_PRESSURE_PLATE);
 	public static final RegistryObject<Item> KAPOK_BUTTON = block(WoodworksModBlocks.KAPOK_BUTTON);
+	public static final RegistryObject<Item> MAPLE_LEAVES = block(WoodworksModBlocks.MAPLE_LEAVES);
+	public static final RegistryObject<Item> PINE_LEAVES = block(WoodworksModBlocks.PINE_LEAVES);
+	public static final RegistryObject<Item> CEDAR_LEAVES = block(WoodworksModBlocks.CEDAR_LEAVES);
+	public static final RegistryObject<Item> PALM_LEAVES = block(WoodworksModBlocks.PALM_LEAVES);
+	public static final RegistryObject<Item> MANGO_LEAVES = block(WoodworksModBlocks.MANGO_LEAVES);
+	public static final RegistryObject<Item> RUBBER_LEAVES = block(WoodworksModBlocks.RUBBER_LEAVES);
+	public static final RegistryObject<Item> BEECH_LEAVES = block(WoodworksModBlocks.BEECH_LEAVES);
+	public static final RegistryObject<Item> WILLOW_LEAVES = block(WoodworksModBlocks.WILLOW_LEAVES);
+	public static final RegistryObject<Item> ASPEN_LEAVES = block(WoodworksModBlocks.ASPEN_LEAVES);
+	public static final RegistryObject<Item> JOSHUA_LEAVES = block(WoodworksModBlocks.JOSHUA_LEAVES);
+	public static final RegistryObject<Item> BAOBAB_LEAVES = block(WoodworksModBlocks.BAOBAB_LEAVES);
+	public static final RegistryObject<Item> CACTUS_LEAVES = block(WoodworksModBlocks.CACTUS_LEAVES);
+	public static final RegistryObject<Item> MAHOGANY_LEAVES = block(WoodworksModBlocks.MAHOGANY_LEAVES);
+	public static final RegistryObject<Item> TEAK_LEAVES = block(WoodworksModBlocks.TEAK_LEAVES);
+	public static final RegistryObject<Item> KAPOK_LEAVES = block(WoodworksModBlocks.KAPOK_LEAVES);
 	public static final RegistryObject<Item> MAPLE_FALL_LEAVES = block(WoodworksModBlocks.MAPLE_FALL_LEAVES);
-	public static final RegistryObject<Item> WOODWORKER = block(WoodworksModBlocks.WOODWORKER);
 	public static final RegistryObject<Item> BEECH_FALL_LEAVES = block(WoodworksModBlocks.BEECH_FALL_LEAVES);
 	public static final RegistryObject<Item> ASPEN_FALL_LEAVES = block(WoodworksModBlocks.ASPEN_FALL_LEAVES);
-	public static final RegistryObject<Item> STRIPPED_WILLOW_WOOD = block(WoodworksModBlocks.STRIPPED_WILLOW_WOOD);
-	public static final RegistryObject<Item> STRIPPED_WILLOW_LOG = block(WoodworksModBlocks.STRIPPED_WILLOW_LOG);
+	public static final RegistryObject<Item> MANGO = REGISTRY.register("mango", () -> new MangoItem());
+	public static final RegistryObject<Item> WOODWORKER = block(WoodworksModBlocks.WOODWORKER);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

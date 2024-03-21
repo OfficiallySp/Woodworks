@@ -54,7 +54,7 @@
     {
       "name": "MapleLeaves",
       "type": "block",
-      "sortid": 4,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_leaves",
@@ -71,7 +71,7 @@
     {
       "name": "MapleStairs",
       "type": "block",
-      "sortid": 5,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_stairs",
@@ -90,7 +90,7 @@
     {
       "name": "MapleSlab",
       "type": "block",
-      "sortid": 6,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_slab",
@@ -109,7 +109,7 @@
     {
       "name": "MapleFence",
       "type": "block",
-      "sortid": 7,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_fence",
@@ -128,7 +128,7 @@
     {
       "name": "MapleFenceGate",
       "type": "block",
-      "sortid": 8,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_fence_gate",
@@ -148,7 +148,7 @@
     {
       "name": "MaplePressurePlate",
       "type": "block",
-      "sortid": 9,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_pressure_plate",
@@ -166,7 +166,7 @@
     {
       "name": "MapleButton",
       "type": "block",
-      "sortid": 10,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_button",
@@ -185,7 +185,7 @@
     {
       "name": "MapleWoodRecipe",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_wood_recipe",
@@ -199,7 +199,7 @@
     {
       "name": "MaplePlanksLogRecipe",
       "type": "recipe",
-      "sortid": 11,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_planks_log_recipe",
@@ -213,7 +213,7 @@
     {
       "name": "MaplePlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_planks_wood_recipe",
@@ -227,7 +227,7 @@
     {
       "name": "MapleStairsRecipe",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_stairs_recipe",
@@ -241,7 +241,7 @@
     {
       "name": "MapleSlabRecipe",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_slab_recipe",
@@ -255,7 +255,7 @@
     {
       "name": "MapleFenceRecipe",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_fence_recipe",
@@ -269,7 +269,7 @@
     {
       "name": "MapleFenceGateRecipe",
       "type": "recipe",
-      "sortid": 17,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_fence_gate_recipe",
@@ -283,7 +283,7 @@
     {
       "name": "MaplePressurePlateRecipe",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_pressure_plate_recipe",
@@ -297,7 +297,7 @@
     {
       "name": "MapleButtonRecipe",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_button_recipe",
@@ -311,7 +311,7 @@
     {
       "name": "MapleStickRecipe",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_stick_recipe",
@@ -325,7 +325,7 @@
     {
       "name": "PineWood",
       "type": "block",
-      "sortid": 21,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_wood",
@@ -342,7 +342,7 @@
     {
       "name": "PineLog",
       "type": "block",
-      "sortid": 22,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_log",
@@ -359,7 +359,7 @@
     {
       "name": "PinePlanks",
       "type": "block",
-      "sortid": 23,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_planks",
@@ -376,7 +376,7 @@
     {
       "name": "PineLeaves",
       "type": "block",
-      "sortid": 24,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_leaves",
@@ -393,7 +393,7 @@
     {
       "name": "PineStairs",
       "type": "block",
-      "sortid": 25,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_stairs",
@@ -412,7 +412,7 @@
     {
       "name": "PineSlab",
       "type": "block",
-      "sortid": 26,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_slab",
@@ -431,7 +431,7 @@
     {
       "name": "PineFence",
       "type": "block",
-      "sortid": 27,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_fence",
@@ -450,7 +450,7 @@
     {
       "name": "PineFenceGate",
       "type": "block",
-      "sortid": 28,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_fence_gate",
@@ -470,7 +470,7 @@
     {
       "name": "PinePressurePlate",
       "type": "block",
-      "sortid": 29,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_pressure_plate",
@@ -488,7 +488,7 @@
     {
       "name": "PineButton",
       "type": "block",
-      "sortid": 30,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_button",
@@ -507,7 +507,7 @@
     {
       "name": "PineWoodRecipe",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_wood_recipe",
@@ -521,7 +521,7 @@
     {
       "name": "PinePlanksLogRecipe",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_planks_log_recipe",
@@ -535,7 +535,7 @@
     {
       "name": "PinePlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 33,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_planks_wood_recipe",
@@ -549,7 +549,7 @@
     {
       "name": "PineStairsRecipe",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_stairs_recipe",
@@ -563,7 +563,7 @@
     {
       "name": "PineSlabRecipe",
       "type": "recipe",
-      "sortid": 35,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_slab_recipe",
@@ -577,7 +577,7 @@
     {
       "name": "PineFenceRecipe",
       "type": "recipe",
-      "sortid": 36,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_fence_recipe",
@@ -591,7 +591,7 @@
     {
       "name": "PineFenceGateRecipe",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_fence_gate_recipe",
@@ -605,7 +605,7 @@
     {
       "name": "PinePressurePlateRecipe",
       "type": "recipe",
-      "sortid": 38,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_pressure_plate_recipe",
@@ -619,7 +619,7 @@
     {
       "name": "PineButtonRecipe",
       "type": "recipe",
-      "sortid": 39,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_button_recipe",
@@ -633,7 +633,7 @@
     {
       "name": "PineStickRecipe",
       "type": "recipe",
-      "sortid": 40,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pine_stick_recipe",
@@ -647,7 +647,7 @@
     {
       "name": "CedarWood",
       "type": "block",
-      "sortid": 41,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_wood",
@@ -664,7 +664,7 @@
     {
       "name": "CedarLog",
       "type": "block",
-      "sortid": 42,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_log",
@@ -681,7 +681,7 @@
     {
       "name": "CedarPlanks",
       "type": "block",
-      "sortid": 43,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_planks",
@@ -698,7 +698,7 @@
     {
       "name": "CedarLeaves",
       "type": "block",
-      "sortid": 44,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_leaves",
@@ -715,7 +715,7 @@
     {
       "name": "CedarStairs",
       "type": "block",
-      "sortid": 45,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_stairs",
@@ -734,7 +734,7 @@
     {
       "name": "CedarSlab",
       "type": "block",
-      "sortid": 46,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_slab",
@@ -753,7 +753,7 @@
     {
       "name": "CedarFence",
       "type": "block",
-      "sortid": 47,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_fence",
@@ -772,7 +772,7 @@
     {
       "name": "CedarFenceGate",
       "type": "block",
-      "sortid": 48,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_fence_gate",
@@ -792,7 +792,7 @@
     {
       "name": "CedarPressurePlate",
       "type": "block",
-      "sortid": 49,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_pressure_plate",
@@ -810,7 +810,7 @@
     {
       "name": "CedarButton",
       "type": "block",
-      "sortid": 50,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_button",
@@ -829,7 +829,7 @@
     {
       "name": "CedarWoodRecipe",
       "type": "recipe",
-      "sortid": 51,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_wood_recipe",
@@ -843,7 +843,7 @@
     {
       "name": "CedarPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 52,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_planks_log_recipe",
@@ -857,7 +857,7 @@
     {
       "name": "CedarPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_planks_wood_recipe",
@@ -871,7 +871,7 @@
     {
       "name": "CedarStairsRecipe",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_stairs_recipe",
@@ -885,7 +885,7 @@
     {
       "name": "CedarSlabRecipe",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_slab_recipe",
@@ -899,7 +899,7 @@
     {
       "name": "CedarFenceRecipe",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_fence_recipe",
@@ -913,7 +913,7 @@
     {
       "name": "CedarFenceGateRecipe",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_fence_gate_recipe",
@@ -927,7 +927,7 @@
     {
       "name": "CedarPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 58,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_pressure_plate_recipe",
@@ -941,7 +941,7 @@
     {
       "name": "CedarButtonRecipe",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_button_recipe",
@@ -955,7 +955,7 @@
     {
       "name": "CedarStickRecipe",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cedar_stick_recipe",
@@ -969,7 +969,7 @@
     {
       "name": "PalmWood",
       "type": "block",
-      "sortid": 61,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_wood",
@@ -986,7 +986,7 @@
     {
       "name": "PalmLog",
       "type": "block",
-      "sortid": 62,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_log",
@@ -1003,7 +1003,7 @@
     {
       "name": "PalmPlanks",
       "type": "block",
-      "sortid": 63,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_planks",
@@ -1020,7 +1020,7 @@
     {
       "name": "PalmLeaves",
       "type": "block",
-      "sortid": 64,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_leaves",
@@ -1037,7 +1037,7 @@
     {
       "name": "PalmStairs",
       "type": "block",
-      "sortid": 65,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_stairs",
@@ -1056,7 +1056,7 @@
     {
       "name": "PalmSlab",
       "type": "block",
-      "sortid": 66,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_slab",
@@ -1075,7 +1075,7 @@
     {
       "name": "PalmFence",
       "type": "block",
-      "sortid": 67,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_fence",
@@ -1094,7 +1094,7 @@
     {
       "name": "PalmFenceGate",
       "type": "block",
-      "sortid": 68,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_fence_gate",
@@ -1114,7 +1114,7 @@
     {
       "name": "PalmPressurePlate",
       "type": "block",
-      "sortid": 69,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_pressure_plate",
@@ -1132,7 +1132,7 @@
     {
       "name": "PalmButton",
       "type": "block",
-      "sortid": 70,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_button",
@@ -1151,7 +1151,7 @@
     {
       "name": "PalmWoodRecipe",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_wood_recipe",
@@ -1165,7 +1165,7 @@
     {
       "name": "PalmPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_planks_log_recipe",
@@ -1179,7 +1179,7 @@
     {
       "name": "PalmPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 73,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_planks_wood_recipe",
@@ -1193,7 +1193,7 @@
     {
       "name": "PalmStairsRecipe",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_stairs_recipe",
@@ -1207,7 +1207,7 @@
     {
       "name": "PalmSlabRecipe",
       "type": "recipe",
-      "sortid": 75,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_slab_recipe",
@@ -1221,7 +1221,7 @@
     {
       "name": "PalmFenceRecipe",
       "type": "recipe",
-      "sortid": 76,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_fence_recipe",
@@ -1235,7 +1235,7 @@
     {
       "name": "PalmFenceGateRecipe",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_fence_gate_recipe",
@@ -1249,7 +1249,7 @@
     {
       "name": "PalmPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_pressure_plate_recipe",
@@ -1263,7 +1263,7 @@
     {
       "name": "PalmButtonRecipe",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_button_recipe",
@@ -1277,7 +1277,7 @@
     {
       "name": "PalmStickRecipe",
       "type": "recipe",
-      "sortid": 80,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "palm_stick_recipe",
@@ -1291,7 +1291,7 @@
     {
       "name": "MangoWood",
       "type": "block",
-      "sortid": 81,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_wood",
@@ -1308,7 +1308,7 @@
     {
       "name": "MangoLog",
       "type": "block",
-      "sortid": 82,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_log",
@@ -1325,7 +1325,7 @@
     {
       "name": "MangoPlanks",
       "type": "block",
-      "sortid": 83,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_planks",
@@ -1342,7 +1342,7 @@
     {
       "name": "MangoLeaves",
       "type": "block",
-      "sortid": 84,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_leaves",
@@ -1359,7 +1359,7 @@
     {
       "name": "MangoStairs",
       "type": "block",
-      "sortid": 85,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_stairs",
@@ -1378,7 +1378,7 @@
     {
       "name": "MangoSlab",
       "type": "block",
-      "sortid": 86,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_slab",
@@ -1397,7 +1397,7 @@
     {
       "name": "MangoFence",
       "type": "block",
-      "sortid": 87,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_fence",
@@ -1416,7 +1416,7 @@
     {
       "name": "MangoFenceGate",
       "type": "block",
-      "sortid": 88,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_fence_gate",
@@ -1436,7 +1436,7 @@
     {
       "name": "MangoPressurePlate",
       "type": "block",
-      "sortid": 89,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_pressure_plate",
@@ -1454,7 +1454,7 @@
     {
       "name": "MangoButton",
       "type": "block",
-      "sortid": 90,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_button",
@@ -1473,7 +1473,7 @@
     {
       "name": "MangoWoodRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_wood_recipe",
@@ -1487,7 +1487,7 @@
     {
       "name": "MangoPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 92,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_planks_log_recipe",
@@ -1501,7 +1501,7 @@
     {
       "name": "MangoPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 93,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_planks_wood_recipe",
@@ -1515,7 +1515,7 @@
     {
       "name": "MangoStairsRecipe",
       "type": "recipe",
-      "sortid": 94,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_stairs_recipe",
@@ -1529,7 +1529,7 @@
     {
       "name": "MangoSlabRecipe",
       "type": "recipe",
-      "sortid": 95,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_slab_recipe",
@@ -1543,7 +1543,7 @@
     {
       "name": "MangoFenceRecipe",
       "type": "recipe",
-      "sortid": 96,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_fence_recipe",
@@ -1557,7 +1557,7 @@
     {
       "name": "MangoFenceGateRecipe",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_fence_gate_recipe",
@@ -1571,7 +1571,7 @@
     {
       "name": "MangoPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_pressure_plate_recipe",
@@ -1585,7 +1585,7 @@
     {
       "name": "MangoButtonRecipe",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_button_recipe",
@@ -1599,7 +1599,7 @@
     {
       "name": "MangoStickRecipe",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_stick_recipe",
@@ -1613,7 +1613,7 @@
     {
       "name": "RubberWood",
       "type": "block",
-      "sortid": 101,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_wood",
@@ -1630,7 +1630,7 @@
     {
       "name": "RubberLog",
       "type": "block",
-      "sortid": 102,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_log",
@@ -1647,7 +1647,7 @@
     {
       "name": "RubberPlanks",
       "type": "block",
-      "sortid": 103,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_planks",
@@ -1664,7 +1664,7 @@
     {
       "name": "RubberLeaves",
       "type": "block",
-      "sortid": 104,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_leaves",
@@ -1681,7 +1681,7 @@
     {
       "name": "RubberStairs",
       "type": "block",
-      "sortid": 105,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_stairs",
@@ -1700,7 +1700,7 @@
     {
       "name": "RubberSlab",
       "type": "block",
-      "sortid": 106,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_slab",
@@ -1719,7 +1719,7 @@
     {
       "name": "RubberFence",
       "type": "block",
-      "sortid": 107,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_fence",
@@ -1738,7 +1738,7 @@
     {
       "name": "RubberFenceGate",
       "type": "block",
-      "sortid": 108,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_fence_gate",
@@ -1758,7 +1758,7 @@
     {
       "name": "RubberPressurePlate",
       "type": "block",
-      "sortid": 109,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_pressure_plate",
@@ -1776,7 +1776,7 @@
     {
       "name": "RubberButton",
       "type": "block",
-      "sortid": 110,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_button",
@@ -1795,7 +1795,7 @@
     {
       "name": "RubberWoodRecipe",
       "type": "recipe",
-      "sortid": 111,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_wood_recipe",
@@ -1809,7 +1809,7 @@
     {
       "name": "RubberPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 112,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_planks_log_recipe",
@@ -1823,7 +1823,7 @@
     {
       "name": "RubberPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 113,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_planks_wood_recipe",
@@ -1837,7 +1837,7 @@
     {
       "name": "RubberStairsRecipe",
       "type": "recipe",
-      "sortid": 114,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_stairs_recipe",
@@ -1851,7 +1851,7 @@
     {
       "name": "RubberSlabRecipe",
       "type": "recipe",
-      "sortid": 115,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_slab_recipe",
@@ -1865,7 +1865,7 @@
     {
       "name": "RubberFenceRecipe",
       "type": "recipe",
-      "sortid": 116,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_fence_recipe",
@@ -1879,7 +1879,7 @@
     {
       "name": "RubberFenceGateRecipe",
       "type": "recipe",
-      "sortid": 117,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_fence_gate_recipe",
@@ -1893,7 +1893,7 @@
     {
       "name": "RubberPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_pressure_plate_recipe",
@@ -1907,7 +1907,7 @@
     {
       "name": "RubberButtonRecipe",
       "type": "recipe",
-      "sortid": 119,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_button_recipe",
@@ -1921,7 +1921,7 @@
     {
       "name": "RubberStickRecipe",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubber_stick_recipe",
@@ -1935,21 +1935,22 @@
     {
       "name": "WoodworkerGUI",
       "type": "gui",
-      "sortid": 121,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "registry_name": "woodworker_gui",
       "metadata": {
         "files": [
           "src/main/java/com/officiallysp/woodworks/client/gui/WoodworkerGUIScreen.java",
-          "src/main/java/com/officiallysp/woodworks/world/inventory/WoodworkerGUIMenu.java"
+          "src/main/java/com/officiallysp/woodworks/world/inventory/WoodworkerGUIMenu.java",
+          "src/main/java/com/officiallysp/woodworks/network/WoodworkerGUIButtonMessage.java"
         ]
       }
     },
     {
       "name": "Mango",
       "type": "item",
-      "sortid": 122,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango",
@@ -1964,7 +1965,7 @@
     {
       "name": "MangoLeavesBlockDestroyedByPlayer",
       "type": "procedure",
-      "sortid": 123,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mango_leaves_block_destroyed_by_player",
@@ -1996,7 +1997,7 @@
     {
       "name": "LogBlocks",
       "type": "tag",
-      "sortid": 125,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "registry_name": "log_blocks",
@@ -2009,7 +2010,7 @@
     {
       "name": "BeechWood",
       "type": "block",
-      "sortid": 129,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_wood",
@@ -2026,7 +2027,7 @@
     {
       "name": "BeechLog",
       "type": "block",
-      "sortid": 130,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_log",
@@ -2043,7 +2044,7 @@
     {
       "name": "BeechPlanks",
       "type": "block",
-      "sortid": 131,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_planks",
@@ -2060,7 +2061,7 @@
     {
       "name": "BeechLeaves",
       "type": "block",
-      "sortid": 132,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_leaves",
@@ -2077,7 +2078,7 @@
     {
       "name": "BeechStairs",
       "type": "block",
-      "sortid": 133,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_stairs",
@@ -2096,7 +2097,7 @@
     {
       "name": "BeechSlab",
       "type": "block",
-      "sortid": 134,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_slab",
@@ -2115,7 +2116,7 @@
     {
       "name": "BeechFence",
       "type": "block",
-      "sortid": 135,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_fence",
@@ -2134,7 +2135,7 @@
     {
       "name": "BeechFenceGate",
       "type": "block",
-      "sortid": 136,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_fence_gate",
@@ -2154,7 +2155,7 @@
     {
       "name": "BeechPressurePlate",
       "type": "block",
-      "sortid": 137,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_pressure_plate",
@@ -2172,7 +2173,7 @@
     {
       "name": "BeechButton",
       "type": "block",
-      "sortid": 138,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_button",
@@ -2191,7 +2192,7 @@
     {
       "name": "BeechWoodRecipe",
       "type": "recipe",
-      "sortid": 219,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_wood_recipe",
@@ -2205,7 +2206,7 @@
     {
       "name": "BeechPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 220,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_planks_log_recipe",
@@ -2219,7 +2220,7 @@
     {
       "name": "BeechPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 221,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_planks_wood_recipe",
@@ -2233,7 +2234,7 @@
     {
       "name": "BeechStairsRecipe",
       "type": "recipe",
-      "sortid": 222,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_stairs_recipe",
@@ -2247,7 +2248,7 @@
     {
       "name": "BeechSlabRecipe",
       "type": "recipe",
-      "sortid": 223,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_slab_recipe",
@@ -2261,7 +2262,7 @@
     {
       "name": "BeechFenceRecipe",
       "type": "recipe",
-      "sortid": 224,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_fence_recipe",
@@ -2275,7 +2276,7 @@
     {
       "name": "BeechFenceGateRecipe",
       "type": "recipe",
-      "sortid": 225,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_fence_gate_recipe",
@@ -2289,7 +2290,7 @@
     {
       "name": "BeechPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 226,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_pressure_plate_recipe",
@@ -2303,7 +2304,7 @@
     {
       "name": "BeechButtonRecipe",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_button_recipe",
@@ -2317,7 +2318,7 @@
     {
       "name": "BeechStickRecipe",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_stick_recipe",
@@ -2331,7 +2332,7 @@
     {
       "name": "WillowWood",
       "type": "block",
-      "sortid": 139,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_wood",
@@ -2348,7 +2349,7 @@
     {
       "name": "WillowLog",
       "type": "block",
-      "sortid": 140,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_log",
@@ -2365,7 +2366,7 @@
     {
       "name": "WillowPlanks",
       "type": "block",
-      "sortid": 141,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_planks",
@@ -2382,7 +2383,7 @@
     {
       "name": "WillowLeaves",
       "type": "block",
-      "sortid": 142,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_leaves",
@@ -2399,7 +2400,7 @@
     {
       "name": "WillowStairs",
       "type": "block",
-      "sortid": 143,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_stairs",
@@ -2418,7 +2419,7 @@
     {
       "name": "WillowSlab",
       "type": "block",
-      "sortid": 144,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_slab",
@@ -2437,7 +2438,7 @@
     {
       "name": "WillowFence",
       "type": "block",
-      "sortid": 145,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_fence",
@@ -2456,7 +2457,7 @@
     {
       "name": "WillowFenceGate",
       "type": "block",
-      "sortid": 146,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_fence_gate",
@@ -2476,7 +2477,7 @@
     {
       "name": "WillowPressurePlate",
       "type": "block",
-      "sortid": 147,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_pressure_plate",
@@ -2494,7 +2495,7 @@
     {
       "name": "WillowButton",
       "type": "block",
-      "sortid": 148,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_button",
@@ -2513,7 +2514,7 @@
     {
       "name": "WillowWoodRecipe",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_wood_recipe",
@@ -2527,7 +2528,7 @@
     {
       "name": "WillowPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_planks_log_recipe",
@@ -2541,7 +2542,7 @@
     {
       "name": "WillowPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_planks_wood_recipe",
@@ -2555,7 +2556,7 @@
     {
       "name": "WillowStairsRecipe",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_stairs_recipe",
@@ -2569,7 +2570,7 @@
     {
       "name": "WillowSlabRecipe",
       "type": "recipe",
-      "sortid": 233,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_slab_recipe",
@@ -2583,7 +2584,7 @@
     {
       "name": "WillowFenceRecipe",
       "type": "recipe",
-      "sortid": 234,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_fence_recipe",
@@ -2597,7 +2598,7 @@
     {
       "name": "WillowFenceGateRecipe",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_fence_gate_recipe",
@@ -2611,7 +2612,7 @@
     {
       "name": "WillowPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_pressure_plate_recipe",
@@ -2625,7 +2626,7 @@
     {
       "name": "WillowButtonRecipe",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_button_recipe",
@@ -2639,7 +2640,7 @@
     {
       "name": "WillowStickRecipe",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_stick_recipe",
@@ -2653,7 +2654,7 @@
     {
       "name": "AspenWood",
       "type": "block",
-      "sortid": 149,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_wood",
@@ -2670,7 +2671,7 @@
     {
       "name": "AspenLog",
       "type": "block",
-      "sortid": 150,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_log",
@@ -2687,7 +2688,7 @@
     {
       "name": "AspenPlanks",
       "type": "block",
-      "sortid": 151,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_planks",
@@ -2704,7 +2705,7 @@
     {
       "name": "AspenLeaves",
       "type": "block",
-      "sortid": 152,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_leaves",
@@ -2721,7 +2722,7 @@
     {
       "name": "AspenStairs",
       "type": "block",
-      "sortid": 153,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_stairs",
@@ -2740,7 +2741,7 @@
     {
       "name": "AspenSlab",
       "type": "block",
-      "sortid": 154,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_slab",
@@ -2759,7 +2760,7 @@
     {
       "name": "AspenFence",
       "type": "block",
-      "sortid": 155,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_fence",
@@ -2778,7 +2779,7 @@
     {
       "name": "AspenFenceGate",
       "type": "block",
-      "sortid": 156,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_fence_gate",
@@ -2798,7 +2799,7 @@
     {
       "name": "AspenPressurePlate",
       "type": "block",
-      "sortid": 157,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_pressure_plate",
@@ -2816,7 +2817,7 @@
     {
       "name": "AspenButton",
       "type": "block",
-      "sortid": 158,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_button",
@@ -2835,7 +2836,7 @@
     {
       "name": "AspenWoodRecipe",
       "type": "recipe",
-      "sortid": 239,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_wood_recipe",
@@ -2849,7 +2850,7 @@
     {
       "name": "AspenPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 240,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_planks_log_recipe",
@@ -2863,7 +2864,7 @@
     {
       "name": "AspenPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 241,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_planks_wood_recipe",
@@ -2877,7 +2878,7 @@
     {
       "name": "AspenStairsRecipe",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_stairs_recipe",
@@ -2891,7 +2892,7 @@
     {
       "name": "AspenSlabRecipe",
       "type": "recipe",
-      "sortid": 243,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_slab_recipe",
@@ -2905,7 +2906,7 @@
     {
       "name": "AspenFenceRecipe",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_fence_recipe",
@@ -2919,7 +2920,7 @@
     {
       "name": "AspenFenceGateRecipe",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_fence_gate_recipe",
@@ -2933,7 +2934,7 @@
     {
       "name": "AspenPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_pressure_plate_recipe",
@@ -2947,7 +2948,7 @@
     {
       "name": "AspenButtonRecipe",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_button_recipe",
@@ -2961,7 +2962,7 @@
     {
       "name": "AspenStickRecipe",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_stick_recipe",
@@ -2975,7 +2976,7 @@
     {
       "name": "JoshuaWood",
       "type": "block",
-      "sortid": 159,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_wood",
@@ -2992,7 +2993,7 @@
     {
       "name": "JoshuaLog",
       "type": "block",
-      "sortid": 160,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_log",
@@ -3009,7 +3010,7 @@
     {
       "name": "JoshuaPlanks",
       "type": "block",
-      "sortid": 161,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_planks",
@@ -3026,7 +3027,7 @@
     {
       "name": "JoshuaLeaves",
       "type": "block",
-      "sortid": 162,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_leaves",
@@ -3043,7 +3044,7 @@
     {
       "name": "JoshuaStairs",
       "type": "block",
-      "sortid": 163,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_stairs",
@@ -3062,7 +3063,7 @@
     {
       "name": "JoshuaSlab",
       "type": "block",
-      "sortid": 164,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_slab",
@@ -3081,7 +3082,7 @@
     {
       "name": "JoshuaFence",
       "type": "block",
-      "sortid": 165,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_fence",
@@ -3100,7 +3101,7 @@
     {
       "name": "JoshuaFenceGate",
       "type": "block",
-      "sortid": 166,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_fence_gate",
@@ -3120,7 +3121,7 @@
     {
       "name": "JoshuaPressurePlate",
       "type": "block",
-      "sortid": 167,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_pressure_plate",
@@ -3138,7 +3139,7 @@
     {
       "name": "JoshuaButton",
       "type": "block",
-      "sortid": 168,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_button",
@@ -3157,7 +3158,7 @@
     {
       "name": "JoshuaWoodRecipe",
       "type": "recipe",
-      "sortid": 249,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_wood_recipe",
@@ -3171,7 +3172,7 @@
     {
       "name": "JoshuaPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_planks_log_recipe",
@@ -3185,7 +3186,7 @@
     {
       "name": "JoshuaPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 251,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_planks_wood_recipe",
@@ -3199,7 +3200,7 @@
     {
       "name": "JoshuaStairsRecipe",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_stairs_recipe",
@@ -3213,7 +3214,7 @@
     {
       "name": "JoshuaSlabRecipe",
       "type": "recipe",
-      "sortid": 253,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_slab_recipe",
@@ -3227,7 +3228,7 @@
     {
       "name": "JoshuaFenceRecipe",
       "type": "recipe",
-      "sortid": 254,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_fence_recipe",
@@ -3241,7 +3242,7 @@
     {
       "name": "JoshuaFenceGateRecipe",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_fence_gate_recipe",
@@ -3255,7 +3256,7 @@
     {
       "name": "JoshuaPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 256,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_pressure_plate_recipe",
@@ -3269,7 +3270,7 @@
     {
       "name": "JoshuaButtonRecipe",
       "type": "recipe",
-      "sortid": 257,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_button_recipe",
@@ -3283,7 +3284,7 @@
     {
       "name": "JoshuaStickRecipe",
       "type": "recipe",
-      "sortid": 258,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "registry_name": "joshua_stick_recipe",
@@ -3297,7 +3298,7 @@
     {
       "name": "BaobabWood",
       "type": "block",
-      "sortid": 169,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_wood",
@@ -3314,7 +3315,7 @@
     {
       "name": "BaobabLog",
       "type": "block",
-      "sortid": 170,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_log",
@@ -3331,7 +3332,7 @@
     {
       "name": "BaobabPlanks",
       "type": "block",
-      "sortid": 171,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_planks",
@@ -3348,7 +3349,7 @@
     {
       "name": "BaobabLeaves",
       "type": "block",
-      "sortid": 172,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_leaves",
@@ -3365,7 +3366,7 @@
     {
       "name": "BaobabStairs",
       "type": "block",
-      "sortid": 173,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_stairs",
@@ -3384,7 +3385,7 @@
     {
       "name": "BaobabSlab",
       "type": "block",
-      "sortid": 174,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_slab",
@@ -3403,7 +3404,7 @@
     {
       "name": "BaobabFence",
       "type": "block",
-      "sortid": 175,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_fence",
@@ -3422,7 +3423,7 @@
     {
       "name": "BaobabFenceGate",
       "type": "block",
-      "sortid": 176,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_fence_gate",
@@ -3442,7 +3443,7 @@
     {
       "name": "BaobabPressurePlate",
       "type": "block",
-      "sortid": 177,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_pressure_plate",
@@ -3460,7 +3461,7 @@
     {
       "name": "BaobabButton",
       "type": "block",
-      "sortid": 178,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_button",
@@ -3479,7 +3480,7 @@
     {
       "name": "BaobabWoodRecipe",
       "type": "recipe",
-      "sortid": 259,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_wood_recipe",
@@ -3493,7 +3494,7 @@
     {
       "name": "BaobabPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 260,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_planks_log_recipe",
@@ -3507,7 +3508,7 @@
     {
       "name": "BaobabPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 261,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_planks_wood_recipe",
@@ -3521,7 +3522,7 @@
     {
       "name": "BaobabStairsRecipe",
       "type": "recipe",
-      "sortid": 262,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_stairs_recipe",
@@ -3535,7 +3536,7 @@
     {
       "name": "BaobabSlabRecipe",
       "type": "recipe",
-      "sortid": 263,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_slab_recipe",
@@ -3549,7 +3550,7 @@
     {
       "name": "BaobabFenceRecipe",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_fence_recipe",
@@ -3563,7 +3564,7 @@
     {
       "name": "BaobabFenceGateRecipe",
       "type": "recipe",
-      "sortid": 265,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_fence_gate_recipe",
@@ -3577,7 +3578,7 @@
     {
       "name": "BaobabPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_pressure_plate_recipe",
@@ -3591,7 +3592,7 @@
     {
       "name": "BaobabButtonRecipe",
       "type": "recipe",
-      "sortid": 267,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_button_recipe",
@@ -3605,7 +3606,7 @@
     {
       "name": "BaobabStickRecipe",
       "type": "recipe",
-      "sortid": 268,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "registry_name": "baobab_stick_recipe",
@@ -3619,7 +3620,7 @@
     {
       "name": "CactusWood",
       "type": "block",
-      "sortid": 179,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_wood",
@@ -3636,7 +3637,7 @@
     {
       "name": "CactusLog",
       "type": "block",
-      "sortid": 180,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_log",
@@ -3653,7 +3654,7 @@
     {
       "name": "CactusPlanks",
       "type": "block",
-      "sortid": 181,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_planks",
@@ -3670,7 +3671,7 @@
     {
       "name": "CactusLeaves",
       "type": "block",
-      "sortid": 182,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_leaves",
@@ -3687,7 +3688,7 @@
     {
       "name": "CactusStairs",
       "type": "block",
-      "sortid": 183,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_stairs",
@@ -3706,7 +3707,7 @@
     {
       "name": "CactusSlab",
       "type": "block",
-      "sortid": 184,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_slab",
@@ -3725,7 +3726,7 @@
     {
       "name": "CactusFence",
       "type": "block",
-      "sortid": 185,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_fence",
@@ -3744,7 +3745,7 @@
     {
       "name": "CactusFenceGate",
       "type": "block",
-      "sortid": 186,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_fence_gate",
@@ -3764,7 +3765,7 @@
     {
       "name": "CactusPressurePlate",
       "type": "block",
-      "sortid": 187,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_pressure_plate",
@@ -3782,7 +3783,7 @@
     {
       "name": "CactusButton",
       "type": "block",
-      "sortid": 188,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_button",
@@ -3801,7 +3802,7 @@
     {
       "name": "CactusWoodRecipe",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_wood_recipe",
@@ -3815,7 +3816,7 @@
     {
       "name": "CactusPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 270,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_planks_log_recipe",
@@ -3829,7 +3830,7 @@
     {
       "name": "CactusPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 271,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_planks_wood_recipe",
@@ -3843,7 +3844,7 @@
     {
       "name": "CactusStairsRecipe",
       "type": "recipe",
-      "sortid": 272,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_stairs_recipe",
@@ -3857,7 +3858,7 @@
     {
       "name": "CactusSlabRecipe",
       "type": "recipe",
-      "sortid": 273,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_slab_recipe",
@@ -3871,7 +3872,7 @@
     {
       "name": "CactusFenceRecipe",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_fence_recipe",
@@ -3885,7 +3886,7 @@
     {
       "name": "CactusFenceGateRecipe",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_fence_gate_recipe",
@@ -3899,7 +3900,7 @@
     {
       "name": "CactusPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 276,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_pressure_plate_recipe",
@@ -3913,7 +3914,7 @@
     {
       "name": "CactusButtonRecipe",
       "type": "recipe",
-      "sortid": 277,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_button_recipe",
@@ -3927,7 +3928,7 @@
     {
       "name": "CactusStickRecipe",
       "type": "recipe",
-      "sortid": 278,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cactus_stick_recipe",
@@ -3941,7 +3942,7 @@
     {
       "name": "MahoganyWood",
       "type": "block",
-      "sortid": 189,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_wood",
@@ -3958,7 +3959,7 @@
     {
       "name": "MahoganyLog",
       "type": "block",
-      "sortid": 190,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_log",
@@ -3975,7 +3976,7 @@
     {
       "name": "MahoganyPlanks",
       "type": "block",
-      "sortid": 191,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_planks",
@@ -3992,7 +3993,7 @@
     {
       "name": "MahoganyLeaves",
       "type": "block",
-      "sortid": 192,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_leaves",
@@ -4009,7 +4010,7 @@
     {
       "name": "MahoganyStairs",
       "type": "block",
-      "sortid": 193,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_stairs",
@@ -4028,7 +4029,7 @@
     {
       "name": "MahoganySlab",
       "type": "block",
-      "sortid": 194,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_slab",
@@ -4047,7 +4048,7 @@
     {
       "name": "MahoganyFence",
       "type": "block",
-      "sortid": 195,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_fence",
@@ -4066,7 +4067,7 @@
     {
       "name": "MahoganyFenceGate",
       "type": "block",
-      "sortid": 196,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_fence_gate",
@@ -4086,7 +4087,7 @@
     {
       "name": "MahoganyPressurePlate",
       "type": "block",
-      "sortid": 197,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_pressure_plate",
@@ -4104,7 +4105,7 @@
     {
       "name": "MahoganyButton",
       "type": "block",
-      "sortid": 198,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_button",
@@ -4123,7 +4124,7 @@
     {
       "name": "MahoganyWoodRecipe",
       "type": "recipe",
-      "sortid": 279,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_wood_recipe",
@@ -4137,7 +4138,7 @@
     {
       "name": "MahoganyPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 280,
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_planks_log_recipe",
@@ -4151,7 +4152,7 @@
     {
       "name": "MahoganyPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 281,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_planks_wood_recipe",
@@ -4165,7 +4166,7 @@
     {
       "name": "MahoganyStairsRecipe",
       "type": "recipe",
-      "sortid": 282,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_stairs_recipe",
@@ -4179,7 +4180,7 @@
     {
       "name": "MahoganySlabRecipe",
       "type": "recipe",
-      "sortid": 283,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_slab_recipe",
@@ -4193,7 +4194,7 @@
     {
       "name": "MahoganyFenceRecipe",
       "type": "recipe",
-      "sortid": 284,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_fence_recipe",
@@ -4207,7 +4208,7 @@
     {
       "name": "MahoganyFenceGateRecipe",
       "type": "recipe",
-      "sortid": 285,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_fence_gate_recipe",
@@ -4221,7 +4222,7 @@
     {
       "name": "MahoganyPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 286,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_pressure_plate_recipe",
@@ -4235,7 +4236,7 @@
     {
       "name": "MahoganyButtonRecipe",
       "type": "recipe",
-      "sortid": 287,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_button_recipe",
@@ -4249,7 +4250,7 @@
     {
       "name": "MahoganyStickRecipe",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mahogany_stick_recipe",
@@ -4263,7 +4264,7 @@
     {
       "name": "TeakWood",
       "type": "block",
-      "sortid": 199,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_wood",
@@ -4280,7 +4281,7 @@
     {
       "name": "TeakLog",
       "type": "block",
-      "sortid": 200,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_log",
@@ -4297,7 +4298,7 @@
     {
       "name": "TeakPlanks",
       "type": "block",
-      "sortid": 201,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_planks",
@@ -4314,7 +4315,7 @@
     {
       "name": "TeakLeaves",
       "type": "block",
-      "sortid": 202,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_leaves",
@@ -4331,7 +4332,7 @@
     {
       "name": "TeakStairs",
       "type": "block",
-      "sortid": 203,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_stairs",
@@ -4350,7 +4351,7 @@
     {
       "name": "TeakSlab",
       "type": "block",
-      "sortid": 204,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_slab",
@@ -4369,7 +4370,7 @@
     {
       "name": "TeakFence",
       "type": "block",
-      "sortid": 205,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_fence",
@@ -4388,7 +4389,7 @@
     {
       "name": "TeakFenceGate",
       "type": "block",
-      "sortid": 206,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_fence_gate",
@@ -4408,7 +4409,7 @@
     {
       "name": "TeakPressurePlate",
       "type": "block",
-      "sortid": 207,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_pressure_plate",
@@ -4426,7 +4427,7 @@
     {
       "name": "TeakButton",
       "type": "block",
-      "sortid": 208,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_button",
@@ -4445,7 +4446,7 @@
     {
       "name": "TeakWoodRecipe",
       "type": "recipe",
-      "sortid": 289,
+      "sortid": 291,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_wood_recipe",
@@ -4459,7 +4460,7 @@
     {
       "name": "TeakPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 290,
+      "sortid": 292,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_planks_log_recipe",
@@ -4473,7 +4474,7 @@
     {
       "name": "TeakPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 291,
+      "sortid": 293,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_planks_wood_recipe",
@@ -4487,7 +4488,7 @@
     {
       "name": "TeakStairsRecipe",
       "type": "recipe",
-      "sortid": 292,
+      "sortid": 294,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_stairs_recipe",
@@ -4501,7 +4502,7 @@
     {
       "name": "TeakSlabRecipe",
       "type": "recipe",
-      "sortid": 293,
+      "sortid": 295,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_slab_recipe",
@@ -4515,7 +4516,7 @@
     {
       "name": "TeakFenceRecipe",
       "type": "recipe",
-      "sortid": 294,
+      "sortid": 296,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_fence_recipe",
@@ -4529,7 +4530,7 @@
     {
       "name": "TeakFenceGateRecipe",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 297,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_fence_gate_recipe",
@@ -4543,7 +4544,7 @@
     {
       "name": "TeakPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 296,
+      "sortid": 298,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_pressure_plate_recipe",
@@ -4557,7 +4558,7 @@
     {
       "name": "TeakButtonRecipe",
       "type": "recipe",
-      "sortid": 297,
+      "sortid": 299,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_button_recipe",
@@ -4571,7 +4572,7 @@
     {
       "name": "TeakStickRecipe",
       "type": "recipe",
-      "sortid": 298,
+      "sortid": 300,
       "compiles": true,
       "locked_code": false,
       "registry_name": "teak_stick_recipe",
@@ -4585,7 +4586,7 @@
     {
       "name": "KapokWood",
       "type": "block",
-      "sortid": 209,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_wood",
@@ -4602,7 +4603,7 @@
     {
       "name": "KapokLog",
       "type": "block",
-      "sortid": 210,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_log",
@@ -4619,7 +4620,7 @@
     {
       "name": "KapokPlanks",
       "type": "block",
-      "sortid": 211,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_planks",
@@ -4636,7 +4637,7 @@
     {
       "name": "KapokLeaves",
       "type": "block",
-      "sortid": 212,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_leaves",
@@ -4653,7 +4654,7 @@
     {
       "name": "KapokStairs",
       "type": "block",
-      "sortid": 213,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_stairs",
@@ -4672,7 +4673,7 @@
     {
       "name": "KapokSlab",
       "type": "block",
-      "sortid": 214,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_slab",
@@ -4691,7 +4692,7 @@
     {
       "name": "KapokFence",
       "type": "block",
-      "sortid": 215,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_fence",
@@ -4710,7 +4711,7 @@
     {
       "name": "KapokFenceGate",
       "type": "block",
-      "sortid": 216,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_fence_gate",
@@ -4730,7 +4731,7 @@
     {
       "name": "KapokPressurePlate",
       "type": "block",
-      "sortid": 217,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_pressure_plate",
@@ -4748,7 +4749,7 @@
     {
       "name": "KapokButton",
       "type": "block",
-      "sortid": 218,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_button",
@@ -4767,7 +4768,7 @@
     {
       "name": "KapokWoodRecipe",
       "type": "recipe",
-      "sortid": 299,
+      "sortid": 301,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_wood_recipe",
@@ -4781,7 +4782,7 @@
     {
       "name": "KapokPlanksLogRecipe",
       "type": "recipe",
-      "sortid": 300,
+      "sortid": 302,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_planks_log_recipe",
@@ -4795,7 +4796,7 @@
     {
       "name": "KapokPlanksWoodRecipe",
       "type": "recipe",
-      "sortid": 301,
+      "sortid": 303,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_planks_wood_recipe",
@@ -4809,7 +4810,7 @@
     {
       "name": "KapokStairsRecipe",
       "type": "recipe",
-      "sortid": 302,
+      "sortid": 304,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_stairs_recipe",
@@ -4823,7 +4824,7 @@
     {
       "name": "KapokSlabRecipe",
       "type": "recipe",
-      "sortid": 303,
+      "sortid": 305,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_slab_recipe",
@@ -4837,7 +4838,7 @@
     {
       "name": "KapokFenceRecipe",
       "type": "recipe",
-      "sortid": 304,
+      "sortid": 306,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_fence_recipe",
@@ -4851,7 +4852,7 @@
     {
       "name": "KapokFenceGateRecipe",
       "type": "recipe",
-      "sortid": 305,
+      "sortid": 307,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_fence_gate_recipe",
@@ -4865,7 +4866,7 @@
     {
       "name": "KapokPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 306,
+      "sortid": 308,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_pressure_plate_recipe",
@@ -4879,7 +4880,7 @@
     {
       "name": "KapokButtonRecipe",
       "type": "recipe",
-      "sortid": 307,
+      "sortid": 309,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_button_recipe",
@@ -4893,7 +4894,7 @@
     {
       "name": "KapokStickRecipe",
       "type": "recipe",
-      "sortid": 308,
+      "sortid": 310,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kapok_stick_recipe",
@@ -4907,7 +4908,7 @@
     {
       "name": "MapleFallLeaves",
       "type": "block",
-      "sortid": 309,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_fall_leaves",
@@ -4924,7 +4925,7 @@
     {
       "name": "Woodworker",
       "type": "block",
-      "sortid": 310,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "woodworker",
@@ -4954,7 +4955,7 @@
     {
       "name": "BeechFallLeaves",
       "type": "block",
-      "sortid": 312,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beech_fall_leaves",
@@ -4971,7 +4972,7 @@
     {
       "name": "AspenFallLeaves",
       "type": "block",
-      "sortid": 313,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aspen_fall_leaves",
@@ -4988,7 +4989,7 @@
     {
       "name": "WillowWoodOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 314,
+      "sortid": 312,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_wood_on_block_right_clicked",
@@ -5024,7 +5025,7 @@
     {
       "name": "StrippedWillowWood",
       "type": "block",
-      "sortid": 315,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stripped_willow_wood",
@@ -5041,7 +5042,7 @@
     {
       "name": "StrippedWillowLog",
       "type": "block",
-      "sortid": 316,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stripped_willow_log",
@@ -5058,7 +5059,7 @@
     {
       "name": "WillowLogOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 317,
+      "sortid": 313,
       "compiles": true,
       "locked_code": false,
       "registry_name": "willow_log_on_block_right_clicked",
@@ -5094,7 +5095,7 @@
     {
       "name": "FenceBlocks",
       "type": "tag",
-      "sortid": 318,
+      "sortid": 314,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fence_blocks",
@@ -5107,7 +5108,7 @@
     {
       "name": "LeaveBlocks",
       "type": "tag",
-      "sortid": 319,
+      "sortid": 315,
       "compiles": true,
       "locked_code": false,
       "registry_name": "leave_blocks",
@@ -5120,13 +5121,52 @@
     {
       "name": "PlankItems",
       "type": "tag",
-      "sortid": 320,
+      "sortid": 316,
       "compiles": true,
       "locked_code": false,
       "registry_name": "plank_items",
       "metadata": {
         "files": [
           "src/main/resources/data/minecraft/tags/items/planks.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodworkerProcess",
+      "type": "procedure",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodworker_process",
+      "metadata": {
+        "files": [
+          "src/main/java/com/officiallysp/woodworks/procedures/WoodworkerProcessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
         ]
       }
     }
@@ -5228,6 +5268,7 @@
       "block.woodworks.joshua_pressure_plate": "Joshua Pressure Plate",
       "block.woodworks.rubber_log": "Rubber Log",
       "block.woodworks.baobab_planks": "Baobab Planks",
+      "gui.woodworks.woodworker_gui.STATUS": "WAITING",
       "block.woodworks.aspen_leaves": "Aspen Leaves",
       "block.woodworks.joshua_leaves": "Joshua Leaves",
       "block.woodworks.kapok_wood": "Kapok Wood",
@@ -5248,7 +5289,7 @@
       "block.woodworks.mango_pressure_plate": "Mango Pressure Plate",
       "block.woodworks.beech_fence": "Beech Fence",
       "block.woodworks.mahogany_fence_gate": "Mahogany Fence Gate",
-      "gui.woodworks.woodworker_gui.label_woodworking": "WoodWorking",
+      "gui.woodworks.woodworker_gui.label_woodworking": "Wood Working",
       "block.woodworks.palm_fence_gate": "Palm Fence Gate",
       "block.woodworks.aspen_fence": "Aspen Fence",
       "block.woodworks.pine_wood": "Pine Wood",
@@ -5282,6 +5323,7 @@
       "block.woodworks.baobab_stairs": "Baobab Stairs",
       "block.woodworks.palm_log": "Palm Log",
       "block.woodworks.kapok_planks": "Kapok Planks",
+      "gui.woodworks.woodworker_gui.label_invalid_combination": "INVALID COMBINATION",
       "block.woodworks.mahogany_planks": "Mahogany Planks",
       "block.woodworks.teak_stairs": "Teak Stairs",
       "block.woodworks.pine_stairs": "Pine Stairs",

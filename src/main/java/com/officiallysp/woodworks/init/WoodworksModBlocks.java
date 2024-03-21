@@ -173,7 +173,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> MAPLE_LOG = REGISTRY.register("maple_log", () -> new MapleLogBlock());
 	public static final RegistryObject<Block> MAPLE_WOOD = REGISTRY.register("maple_wood", () -> new MapleWoodBlock());
 	public static final RegistryObject<Block> MAPLE_PLANKS = REGISTRY.register("maple_planks", () -> new MaplePlanksBlock());
-	public static final RegistryObject<Block> MAPLE_LEAVES = REGISTRY.register("maple_leaves", () -> new MapleLeavesBlock());
 	public static final RegistryObject<Block> MAPLE_STAIRS = REGISTRY.register("maple_stairs", () -> new MapleStairsBlock());
 	public static final RegistryObject<Block> MAPLE_SLAB = REGISTRY.register("maple_slab", () -> new MapleSlabBlock());
 	public static final RegistryObject<Block> MAPLE_FENCE = REGISTRY.register("maple_fence", () -> new MapleFenceBlock());
@@ -183,7 +182,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> PINE_WOOD = REGISTRY.register("pine_wood", () -> new PineWoodBlock());
 	public static final RegistryObject<Block> PINE_LOG = REGISTRY.register("pine_log", () -> new PineLogBlock());
 	public static final RegistryObject<Block> PINE_PLANKS = REGISTRY.register("pine_planks", () -> new PinePlanksBlock());
-	public static final RegistryObject<Block> PINE_LEAVES = REGISTRY.register("pine_leaves", () -> new PineLeavesBlock());
 	public static final RegistryObject<Block> PINE_STAIRS = REGISTRY.register("pine_stairs", () -> new PineStairsBlock());
 	public static final RegistryObject<Block> PINE_SLAB = REGISTRY.register("pine_slab", () -> new PineSlabBlock());
 	public static final RegistryObject<Block> PINE_FENCE = REGISTRY.register("pine_fence", () -> new PineFenceBlock());
@@ -193,7 +191,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> CEDAR_WOOD = REGISTRY.register("cedar_wood", () -> new CedarWoodBlock());
 	public static final RegistryObject<Block> CEDAR_LOG = REGISTRY.register("cedar_log", () -> new CedarLogBlock());
 	public static final RegistryObject<Block> CEDAR_PLANKS = REGISTRY.register("cedar_planks", () -> new CedarPlanksBlock());
-	public static final RegistryObject<Block> CEDAR_LEAVES = REGISTRY.register("cedar_leaves", () -> new CedarLeavesBlock());
 	public static final RegistryObject<Block> CEDAR_STAIRS = REGISTRY.register("cedar_stairs", () -> new CedarStairsBlock());
 	public static final RegistryObject<Block> CEDAR_SLAB = REGISTRY.register("cedar_slab", () -> new CedarSlabBlock());
 	public static final RegistryObject<Block> CEDAR_FENCE = REGISTRY.register("cedar_fence", () -> new CedarFenceBlock());
@@ -203,7 +200,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> PALM_WOOD = REGISTRY.register("palm_wood", () -> new PalmWoodBlock());
 	public static final RegistryObject<Block> PALM_LOG = REGISTRY.register("palm_log", () -> new PalmLogBlock());
 	public static final RegistryObject<Block> PALM_PLANKS = REGISTRY.register("palm_planks", () -> new PalmPlanksBlock());
-	public static final RegistryObject<Block> PALM_LEAVES = REGISTRY.register("palm_leaves", () -> new PalmLeavesBlock());
 	public static final RegistryObject<Block> PALM_STAIRS = REGISTRY.register("palm_stairs", () -> new PalmStairsBlock());
 	public static final RegistryObject<Block> PALM_SLAB = REGISTRY.register("palm_slab", () -> new PalmSlabBlock());
 	public static final RegistryObject<Block> PALM_FENCE = REGISTRY.register("palm_fence", () -> new PalmFenceBlock());
@@ -213,7 +209,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> MANGO_WOOD = REGISTRY.register("mango_wood", () -> new MangoWoodBlock());
 	public static final RegistryObject<Block> MANGO_LOG = REGISTRY.register("mango_log", () -> new MangoLogBlock());
 	public static final RegistryObject<Block> MANGO_PLANKS = REGISTRY.register("mango_planks", () -> new MangoPlanksBlock());
-	public static final RegistryObject<Block> MANGO_LEAVES = REGISTRY.register("mango_leaves", () -> new MangoLeavesBlock());
 	public static final RegistryObject<Block> MANGO_STAIRS = REGISTRY.register("mango_stairs", () -> new MangoStairsBlock());
 	public static final RegistryObject<Block> MANGO_SLAB = REGISTRY.register("mango_slab", () -> new MangoSlabBlock());
 	public static final RegistryObject<Block> MANGO_FENCE = REGISTRY.register("mango_fence", () -> new MangoFenceBlock());
@@ -223,7 +218,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> RUBBER_WOOD = REGISTRY.register("rubber_wood", () -> new RubberWoodBlock());
 	public static final RegistryObject<Block> RUBBER_LOG = REGISTRY.register("rubber_log", () -> new RubberLogBlock());
 	public static final RegistryObject<Block> RUBBER_PLANKS = REGISTRY.register("rubber_planks", () -> new RubberPlanksBlock());
-	public static final RegistryObject<Block> RUBBER_LEAVES = REGISTRY.register("rubber_leaves", () -> new RubberLeavesBlock());
 	public static final RegistryObject<Block> RUBBER_STAIRS = REGISTRY.register("rubber_stairs", () -> new RubberStairsBlock());
 	public static final RegistryObject<Block> RUBBER_SLAB = REGISTRY.register("rubber_slab", () -> new RubberSlabBlock());
 	public static final RegistryObject<Block> RUBBER_FENCE = REGISTRY.register("rubber_fence", () -> new RubberFenceBlock());
@@ -233,7 +227,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> BEECH_WOOD = REGISTRY.register("beech_wood", () -> new BeechWoodBlock());
 	public static final RegistryObject<Block> BEECH_LOG = REGISTRY.register("beech_log", () -> new BeechLogBlock());
 	public static final RegistryObject<Block> BEECH_PLANKS = REGISTRY.register("beech_planks", () -> new BeechPlanksBlock());
-	public static final RegistryObject<Block> BEECH_LEAVES = REGISTRY.register("beech_leaves", () -> new BeechLeavesBlock());
 	public static final RegistryObject<Block> BEECH_STAIRS = REGISTRY.register("beech_stairs", () -> new BeechStairsBlock());
 	public static final RegistryObject<Block> BEECH_SLAB = REGISTRY.register("beech_slab", () -> new BeechSlabBlock());
 	public static final RegistryObject<Block> BEECH_FENCE = REGISTRY.register("beech_fence", () -> new BeechFenceBlock());
@@ -241,9 +234,10 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> BEECH_PRESSURE_PLATE = REGISTRY.register("beech_pressure_plate", () -> new BeechPressurePlateBlock());
 	public static final RegistryObject<Block> BEECH_BUTTON = REGISTRY.register("beech_button", () -> new BeechButtonBlock());
 	public static final RegistryObject<Block> WILLOW_WOOD = REGISTRY.register("willow_wood", () -> new WillowWoodBlock());
+	public static final RegistryObject<Block> STRIPPED_WILLOW_WOOD = REGISTRY.register("stripped_willow_wood", () -> new StrippedWillowWoodBlock());
 	public static final RegistryObject<Block> WILLOW_LOG = REGISTRY.register("willow_log", () -> new WillowLogBlock());
+	public static final RegistryObject<Block> STRIPPED_WILLOW_LOG = REGISTRY.register("stripped_willow_log", () -> new StrippedWillowLogBlock());
 	public static final RegistryObject<Block> WILLOW_PLANKS = REGISTRY.register("willow_planks", () -> new WillowPlanksBlock());
-	public static final RegistryObject<Block> WILLOW_LEAVES = REGISTRY.register("willow_leaves", () -> new WillowLeavesBlock());
 	public static final RegistryObject<Block> WILLOW_STAIRS = REGISTRY.register("willow_stairs", () -> new WillowStairsBlock());
 	public static final RegistryObject<Block> WILLOW_SLAB = REGISTRY.register("willow_slab", () -> new WillowSlabBlock());
 	public static final RegistryObject<Block> WILLOW_FENCE = REGISTRY.register("willow_fence", () -> new WillowFenceBlock());
@@ -253,7 +247,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> ASPEN_WOOD = REGISTRY.register("aspen_wood", () -> new AspenWoodBlock());
 	public static final RegistryObject<Block> ASPEN_LOG = REGISTRY.register("aspen_log", () -> new AspenLogBlock());
 	public static final RegistryObject<Block> ASPEN_PLANKS = REGISTRY.register("aspen_planks", () -> new AspenPlanksBlock());
-	public static final RegistryObject<Block> ASPEN_LEAVES = REGISTRY.register("aspen_leaves", () -> new AspenLeavesBlock());
 	public static final RegistryObject<Block> ASPEN_STAIRS = REGISTRY.register("aspen_stairs", () -> new AspenStairsBlock());
 	public static final RegistryObject<Block> ASPEN_SLAB = REGISTRY.register("aspen_slab", () -> new AspenSlabBlock());
 	public static final RegistryObject<Block> ASPEN_FENCE = REGISTRY.register("aspen_fence", () -> new AspenFenceBlock());
@@ -263,7 +256,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> JOSHUA_WOOD = REGISTRY.register("joshua_wood", () -> new JoshuaWoodBlock());
 	public static final RegistryObject<Block> JOSHUA_LOG = REGISTRY.register("joshua_log", () -> new JoshuaLogBlock());
 	public static final RegistryObject<Block> JOSHUA_PLANKS = REGISTRY.register("joshua_planks", () -> new JoshuaPlanksBlock());
-	public static final RegistryObject<Block> JOSHUA_LEAVES = REGISTRY.register("joshua_leaves", () -> new JoshuaLeavesBlock());
 	public static final RegistryObject<Block> JOSHUA_STAIRS = REGISTRY.register("joshua_stairs", () -> new JoshuaStairsBlock());
 	public static final RegistryObject<Block> JOSHUA_SLAB = REGISTRY.register("joshua_slab", () -> new JoshuaSlabBlock());
 	public static final RegistryObject<Block> JOSHUA_FENCE = REGISTRY.register("joshua_fence", () -> new JoshuaFenceBlock());
@@ -273,7 +265,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> BAOBAB_WOOD = REGISTRY.register("baobab_wood", () -> new BaobabWoodBlock());
 	public static final RegistryObject<Block> BAOBAB_LOG = REGISTRY.register("baobab_log", () -> new BaobabLogBlock());
 	public static final RegistryObject<Block> BAOBAB_PLANKS = REGISTRY.register("baobab_planks", () -> new BaobabPlanksBlock());
-	public static final RegistryObject<Block> BAOBAB_LEAVES = REGISTRY.register("baobab_leaves", () -> new BaobabLeavesBlock());
 	public static final RegistryObject<Block> BAOBAB_STAIRS = REGISTRY.register("baobab_stairs", () -> new BaobabStairsBlock());
 	public static final RegistryObject<Block> BAOBAB_SLAB = REGISTRY.register("baobab_slab", () -> new BaobabSlabBlock());
 	public static final RegistryObject<Block> BAOBAB_FENCE = REGISTRY.register("baobab_fence", () -> new BaobabFenceBlock());
@@ -283,7 +274,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> CACTUS_WOOD = REGISTRY.register("cactus_wood", () -> new CactusWoodBlock());
 	public static final RegistryObject<Block> CACTUS_LOG = REGISTRY.register("cactus_log", () -> new CactusLogBlock());
 	public static final RegistryObject<Block> CACTUS_PLANKS = REGISTRY.register("cactus_planks", () -> new CactusPlanksBlock());
-	public static final RegistryObject<Block> CACTUS_LEAVES = REGISTRY.register("cactus_leaves", () -> new CactusLeavesBlock());
 	public static final RegistryObject<Block> CACTUS_STAIRS = REGISTRY.register("cactus_stairs", () -> new CactusStairsBlock());
 	public static final RegistryObject<Block> CACTUS_SLAB = REGISTRY.register("cactus_slab", () -> new CactusSlabBlock());
 	public static final RegistryObject<Block> CACTUS_FENCE = REGISTRY.register("cactus_fence", () -> new CactusFenceBlock());
@@ -293,7 +283,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> MAHOGANY_WOOD = REGISTRY.register("mahogany_wood", () -> new MahoganyWoodBlock());
 	public static final RegistryObject<Block> MAHOGANY_LOG = REGISTRY.register("mahogany_log", () -> new MahoganyLogBlock());
 	public static final RegistryObject<Block> MAHOGANY_PLANKS = REGISTRY.register("mahogany_planks", () -> new MahoganyPlanksBlock());
-	public static final RegistryObject<Block> MAHOGANY_LEAVES = REGISTRY.register("mahogany_leaves", () -> new MahoganyLeavesBlock());
 	public static final RegistryObject<Block> MAHOGANY_STAIRS = REGISTRY.register("mahogany_stairs", () -> new MahoganyStairsBlock());
 	public static final RegistryObject<Block> MAHOGANY_SLAB = REGISTRY.register("mahogany_slab", () -> new MahoganySlabBlock());
 	public static final RegistryObject<Block> MAHOGANY_FENCE = REGISTRY.register("mahogany_fence", () -> new MahoganyFenceBlock());
@@ -303,7 +292,6 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> TEAK_WOOD = REGISTRY.register("teak_wood", () -> new TeakWoodBlock());
 	public static final RegistryObject<Block> TEAK_LOG = REGISTRY.register("teak_log", () -> new TeakLogBlock());
 	public static final RegistryObject<Block> TEAK_PLANKS = REGISTRY.register("teak_planks", () -> new TeakPlanksBlock());
-	public static final RegistryObject<Block> TEAK_LEAVES = REGISTRY.register("teak_leaves", () -> new TeakLeavesBlock());
 	public static final RegistryObject<Block> TEAK_STAIRS = REGISTRY.register("teak_stairs", () -> new TeakStairsBlock());
 	public static final RegistryObject<Block> TEAK_SLAB = REGISTRY.register("teak_slab", () -> new TeakSlabBlock());
 	public static final RegistryObject<Block> TEAK_FENCE = REGISTRY.register("teak_fence", () -> new TeakFenceBlock());
@@ -313,17 +301,29 @@ public class WoodworksModBlocks {
 	public static final RegistryObject<Block> KAPOK_WOOD = REGISTRY.register("kapok_wood", () -> new KapokWoodBlock());
 	public static final RegistryObject<Block> KAPOK_LOG = REGISTRY.register("kapok_log", () -> new KapokLogBlock());
 	public static final RegistryObject<Block> KAPOK_PLANKS = REGISTRY.register("kapok_planks", () -> new KapokPlanksBlock());
-	public static final RegistryObject<Block> KAPOK_LEAVES = REGISTRY.register("kapok_leaves", () -> new KapokLeavesBlock());
 	public static final RegistryObject<Block> KAPOK_STAIRS = REGISTRY.register("kapok_stairs", () -> new KapokStairsBlock());
 	public static final RegistryObject<Block> KAPOK_SLAB = REGISTRY.register("kapok_slab", () -> new KapokSlabBlock());
 	public static final RegistryObject<Block> KAPOK_FENCE = REGISTRY.register("kapok_fence", () -> new KapokFenceBlock());
 	public static final RegistryObject<Block> KAPOK_FENCE_GATE = REGISTRY.register("kapok_fence_gate", () -> new KapokFenceGateBlock());
 	public static final RegistryObject<Block> KAPOK_PRESSURE_PLATE = REGISTRY.register("kapok_pressure_plate", () -> new KapokPressurePlateBlock());
 	public static final RegistryObject<Block> KAPOK_BUTTON = REGISTRY.register("kapok_button", () -> new KapokButtonBlock());
+	public static final RegistryObject<Block> MAPLE_LEAVES = REGISTRY.register("maple_leaves", () -> new MapleLeavesBlock());
+	public static final RegistryObject<Block> PINE_LEAVES = REGISTRY.register("pine_leaves", () -> new PineLeavesBlock());
+	public static final RegistryObject<Block> CEDAR_LEAVES = REGISTRY.register("cedar_leaves", () -> new CedarLeavesBlock());
+	public static final RegistryObject<Block> PALM_LEAVES = REGISTRY.register("palm_leaves", () -> new PalmLeavesBlock());
+	public static final RegistryObject<Block> MANGO_LEAVES = REGISTRY.register("mango_leaves", () -> new MangoLeavesBlock());
+	public static final RegistryObject<Block> RUBBER_LEAVES = REGISTRY.register("rubber_leaves", () -> new RubberLeavesBlock());
+	public static final RegistryObject<Block> BEECH_LEAVES = REGISTRY.register("beech_leaves", () -> new BeechLeavesBlock());
+	public static final RegistryObject<Block> WILLOW_LEAVES = REGISTRY.register("willow_leaves", () -> new WillowLeavesBlock());
+	public static final RegistryObject<Block> ASPEN_LEAVES = REGISTRY.register("aspen_leaves", () -> new AspenLeavesBlock());
+	public static final RegistryObject<Block> JOSHUA_LEAVES = REGISTRY.register("joshua_leaves", () -> new JoshuaLeavesBlock());
+	public static final RegistryObject<Block> BAOBAB_LEAVES = REGISTRY.register("baobab_leaves", () -> new BaobabLeavesBlock());
+	public static final RegistryObject<Block> CACTUS_LEAVES = REGISTRY.register("cactus_leaves", () -> new CactusLeavesBlock());
+	public static final RegistryObject<Block> MAHOGANY_LEAVES = REGISTRY.register("mahogany_leaves", () -> new MahoganyLeavesBlock());
+	public static final RegistryObject<Block> TEAK_LEAVES = REGISTRY.register("teak_leaves", () -> new TeakLeavesBlock());
+	public static final RegistryObject<Block> KAPOK_LEAVES = REGISTRY.register("kapok_leaves", () -> new KapokLeavesBlock());
 	public static final RegistryObject<Block> MAPLE_FALL_LEAVES = REGISTRY.register("maple_fall_leaves", () -> new MapleFallLeavesBlock());
-	public static final RegistryObject<Block> WOODWORKER = REGISTRY.register("woodworker", () -> new WoodworkerBlock());
 	public static final RegistryObject<Block> BEECH_FALL_LEAVES = REGISTRY.register("beech_fall_leaves", () -> new BeechFallLeavesBlock());
 	public static final RegistryObject<Block> ASPEN_FALL_LEAVES = REGISTRY.register("aspen_fall_leaves", () -> new AspenFallLeavesBlock());
-	public static final RegistryObject<Block> STRIPPED_WILLOW_WOOD = REGISTRY.register("stripped_willow_wood", () -> new StrippedWillowWoodBlock());
-	public static final RegistryObject<Block> STRIPPED_WILLOW_LOG = REGISTRY.register("stripped_willow_log", () -> new StrippedWillowLogBlock());
+	public static final RegistryObject<Block> WOODWORKER = REGISTRY.register("woodworker", () -> new WoodworkerBlock());
 }

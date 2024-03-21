@@ -6,12 +6,15 @@ import net.minecraft.world.entity.player.Inventory;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.chat.Component;
 import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;
+import net.minecraft.client.gui.components.EditBox;
 import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.GuiGraphics;
 
 import java.util.HashMap;
 
 import com.officiallysp.woodworks.world.inventory.WoodworkerGUIMenu;
+import com.officiallysp.woodworks.network.WoodworkerGUIButtonMessage;
+import com.officiallysp.woodworks.WoodworksMod;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 
@@ -20,6 +23,7 @@ public class WoodworkerGUIScreen extends AbstractContainerScreen<WoodworkerGUIMe
 	private final Level world;
 	private final int x, y, z;
 	private final Player entity;
+	EditBox STATUS;
 	Button button_process;
 
 	public WoodworkerGUIScreen(WoodworkerGUIMenu container, Inventory inventory, Component text) {
@@ -39,6 +43,7 @@ public class WoodworkerGUIScreen extends AbstractContainerScreen<WoodworkerGUIMe
 	public void render(GuiGraphics guiGraphics, int mouseX, int mouseY, float partialTicks) {
 		this.renderBackground(guiGraphics);
 		super.render(guiGraphics, mouseX, mouseY, partialTicks);
+		STATUS.render(guiGraphics, mouseX, mouseY, partialTicks);
 		this.renderTooltip(guiGraphics, mouseX, mouseY);
 	}
 
@@ -57,17 +62,20 @@ public class WoodworkerGUIScreen extends AbstractContainerScreen<WoodworkerGUIMe
 			this.minecraft.player.closeContainer();
 			return true;
 		}
+		if (STATUS.isFocused())
+			return STATUS.keyPressed(key, b, c);
 		return super.keyPressed(key, b, c);
 	}
 
 	@Override
 	public void containerTick() {
 		super.containerTick();
+		STATUS.tick();
 	}
 
 	@Override
 	protected void renderLabels(GuiGraphics guiGraphics, int mouseX, int mouseY) {
-		guiGraphics.drawString(this.font, Component.translatable("gui.woodworks.woodworker_gui.label_woodworking"), 15, 5, -1, false);
+		guiGraphics.drawString(this.font, Component.translatable("gui.woodworks.woodworker_gui.label_woodworking"), 6, 5, -12829636, false);
 	}
 
 	@Override
@@ -78,7 +86,34 @@ public class WoodworkerGUIScreen extends AbstractContainerScreen<WoodworkerGUIMe
 	@Override
 	public void init() {
 		super.init();
+		STATUS = new EditBox(this.font, this.leftPos + 79, this.topPos + 6, 88, 18, Component.translatable("gui.woodworks.woodworker_gui.STATUS")) {
+			@Override
+			public void insertText(String text) {
+				super.insertText(text);
+				if (getValue().isEmpty())
+					setSuggestion(Component.translatable("gui.woodworks.woodworker_gui.STATUS").getString());
+				else
+					setSuggestion(null);
+			}
+
+			@Override
+			public void moveCursorTo(int pos) {
+				super.moveCursorTo(pos);
+				if (getValue().isEmpty())
+					setSuggestion(Component.translatable("gui.woodworks.woodworker_gui.STATUS").getString());
+				else
+					setSuggestion(null);
+			}
+		};
+		STATUS.setSuggestion(Component.translatable("gui.woodworks.woodworker_gui.STATUS").getString());
+		STATUS.setMaxLength(32767);
+		guistate.put("text:STATUS", STATUS);
+		this.addWidget(this.STATUS);
 		button_process = Button.builder(Component.translatable("gui.woodworks.woodworker_gui.button_process"), e -> {
+			if (true) {
+				WoodworksMod.PACKET_HANDLER.sendToServer(new WoodworkerGUIButtonMessage(0, x, y, z));
+				WoodworkerGUIButtonMessage.handleButtonAction(entity, 0, x, y, z);
+			}
 		}).bounds(this.leftPos + 60, this.topPos + 32, 63, 20).build();
 		guistate.put("button:button_process", button_process);
 		this.addRenderableWidget(button_process);

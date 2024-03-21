@@ -87,7 +87,9 @@ public class WoodworksModTabs {
 			tabData.accept(WoodworksModBlocks.BEECH_PRESSURE_PLATE.get().asItem());
 			tabData.accept(WoodworksModBlocks.BEECH_BUTTON.get().asItem());
 			tabData.accept(WoodworksModBlocks.WILLOW_WOOD.get().asItem());
+			tabData.accept(WoodworksModBlocks.STRIPPED_WILLOW_WOOD.get().asItem());
 			tabData.accept(WoodworksModBlocks.WILLOW_LOG.get().asItem());
+			tabData.accept(WoodworksModBlocks.STRIPPED_WILLOW_LOG.get().asItem());
 			tabData.accept(WoodworksModBlocks.WILLOW_PLANKS.get().asItem());
 			tabData.accept(WoodworksModBlocks.WILLOW_STAIRS.get().asItem());
 			tabData.accept(WoodworksModBlocks.WILLOW_SLAB.get().asItem());
@@ -158,8 +160,6 @@ public class WoodworksModTabs {
 			tabData.accept(WoodworksModBlocks.KAPOK_FENCE_GATE.get().asItem());
 			tabData.accept(WoodworksModBlocks.KAPOK_PRESSURE_PLATE.get().asItem());
 			tabData.accept(WoodworksModBlocks.KAPOK_BUTTON.get().asItem());
-			tabData.accept(WoodworksModBlocks.STRIPPED_WILLOW_WOOD.get().asItem());
-			tabData.accept(WoodworksModBlocks.STRIPPED_WILLOW_LOG.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
