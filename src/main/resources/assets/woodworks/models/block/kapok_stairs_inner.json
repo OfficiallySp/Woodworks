@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "woodworks:block/kapok_planks",
+    "top": "woodworks:block/kapok_planks",
+    "side": "woodworks:block/kapok_planks"
+  },
+  "render_type": "solid"
+}

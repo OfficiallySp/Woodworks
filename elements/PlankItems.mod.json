@@ -3,7 +3,53 @@
   "_type": "tag",
   "definition": {
     "type": "Items",
-    "items": [],
+    "items": [
+      {
+        "value": "CUSTOM:MaplePlanks"
+      },
+      {
+        "value": "CUSTOM:PinePlanks"
+      },
+      {
+        "value": "CUSTOM:CedarPlanks"
+      },
+      {
+        "value": "CUSTOM:PalmPlanks"
+      },
+      {
+        "value": "CUSTOM:MangoPlanks"
+      },
+      {
+        "value": "CUSTOM:RubberPlanks"
+      },
+      {
+        "value": "CUSTOM:BeechPlanks"
+      },
+      {
+        "value": "CUSTOM:WillowPlanks"
+      },
+      {
+        "value": "CUSTOM:AspenPlanks"
+      },
+      {
+        "value": "CUSTOM:JoshuaPlanks"
+      },
+      {
+        "value": "CUSTOM:BaobabPlanks"
+      },
+      {
+        "value": "CUSTOM:CactusPlanks"
+      },
+      {
+        "value": "CUSTOM:MahoganyPlanks"
+      },
+      {
+        "value": "CUSTOM:TeakPlanks"
+      },
+      {
+        "value": "CUSTOM:KapokPlanks"
+      }
+    ],
     "blocks": [],
     "functions": [],
     "entities": [],

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "woodworks:block/beech_slab"
+    },
+    "type=top": {
+      "model": "woodworks:block/beech_slab_top"
+    },
+    "type=double": {
+      "model": "woodworks:block/beech_slab_full"
+    }
+  }
+}

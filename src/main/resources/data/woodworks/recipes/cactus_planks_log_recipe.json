@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "woodworks:cactus_log"
+    }
+  ],
+  "result": {
+    "item": "woodworks:cactus_planks",
+    "count": 4
+  }
+}

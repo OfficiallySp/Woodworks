@@ -6,6 +6,18 @@
     "woodworks:cedar_leaves",
     "woodworks:palm_leaves",
     "woodworks:mango_leaves",
-    "woodworks:rubber_leaves"
+    "woodworks:rubber_leaves",
+    "woodworks:beech_leaves",
+    "woodworks:willow_leaves",
+    "woodworks:aspen_leaves",
+    "woodworks:joshua_leaves",
+    "woodworks:baobab_leaves",
+    "woodworks:cactus_leaves",
+    "woodworks:mahogany_leaves",
+    "woodworks:teak_leaves",
+    "woodworks:kapok_leaves",
+    "woodworks:beech_fall_leaves",
+    "woodworks:aspen_fall_leaves",
+    "woodworks:maple_fall_leaves"
   ]
 }

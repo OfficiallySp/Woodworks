@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "woodworks:block/teak_planks",
+    "top": "woodworks:block/teak_planks",
+    "side": "woodworks:block/teak_planks"
+  },
+  "render_type": "solid"
+}

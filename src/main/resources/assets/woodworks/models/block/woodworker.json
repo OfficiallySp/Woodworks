@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodworks:block/woodworker",
+    "particle": "woodworks:block/woodworker"
+  },
+  "render_type": "solid"
+}

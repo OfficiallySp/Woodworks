@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "woodworks:block/willow_log_top_stripped",
+    "up": "woodworks:block/willow_log_top_stripped",
+    "north": "woodworks:block/willow_log_side_stripped",
+    "east": "woodworks:block/willow_log_side_stripped",
+    "south": "woodworks:block/willow_log_side_stripped",
+    "west": "woodworks:block/willow_log_side_stripped",
+    "particle": "woodworks:block/willow_log_top_stripped"
+  },
+  "render_type": "solid"
+}

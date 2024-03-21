@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bark",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CactusLog"
+      },
+      {
+        "value": "CUSTOM:CactusLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CactusLog"
+      },
+      {
+        "value": "CUSTOM:CactusLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CactusWood"
+    },
+    "name": "cactus_wood_recipe",
+    "namespace": "mod"
+  }
+}

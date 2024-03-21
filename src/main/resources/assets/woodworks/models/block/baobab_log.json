@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "woodworks:block/baobab_log_top",
+    "up": "woodworks:block/baobab_log_top",
+    "north": "woodworks:block/baobab_log_side",
+    "east": "woodworks:block/baobab_log_side",
+    "south": "woodworks:block/baobab_log_side",
+    "west": "woodworks:block/baobab_log_side",
+    "particle": "woodworks:block/baobab_log_top"
+  },
+  "render_type": "solid"
+}

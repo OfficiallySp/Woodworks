@@ -4,7 +4,53 @@
   "definition": {
     "type": "Blocks",
     "items": [],
-    "blocks": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MapleFence"
+      },
+      {
+        "value": "CUSTOM:PineFence"
+      },
+      {
+        "value": "CUSTOM:CedarFence"
+      },
+      {
+        "value": "CUSTOM:PalmFence"
+      },
+      {
+        "value": "CUSTOM:MangoFence"
+      },
+      {
+        "value": "CUSTOM:RubberFence"
+      },
+      {
+        "value": "CUSTOM:BeechFence"
+      },
+      {
+        "value": "CUSTOM:WillowFence"
+      },
+      {
+        "value": "CUSTOM:AspenFence"
+      },
+      {
+        "value": "CUSTOM:JoshuaFence"
+      },
+      {
+        "value": "CUSTOM:BaobabFence"
+      },
+      {
+        "value": "CUSTOM:CactusFence"
+      },
+      {
+        "value": "CUSTOM:MahoganyFence"
+      },
+      {
+        "value": "CUSTOM:TeakFence"
+      },
+      {
+        "value": "CUSTOM:KapokFence"
+      }
+    ],
     "functions": [],
     "entities": [],
     "biomes": [],

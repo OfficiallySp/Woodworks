@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodworks:block/baobab_planks",
+    "particle": "woodworks:block/baobab_planks"
+  },
+  "render_type": "solid"
+}

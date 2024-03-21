@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "woodworks:aspen_planks"
+    }
+  ],
+  "result": {
+    "item": "woodworks:aspen_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "woodworks:block/beech_planks"
+  },
+  "render_type": "solid"
+}

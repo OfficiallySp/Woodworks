@@ -24,7 +24,40 @@
         "value": "CUSTOM:RubberLeaves"
       },
       {
-        "value": "TAG:minecraft:leaves"
+        "value": "CUSTOM:BeechLeaves"
+      },
+      {
+        "value": "CUSTOM:WillowLeaves"
+      },
+      {
+        "value": "CUSTOM:AspenLeaves"
+      },
+      {
+        "value": "CUSTOM:JoshuaLeaves"
+      },
+      {
+        "value": "CUSTOM:BaobabLeaves"
+      },
+      {
+        "value": "CUSTOM:CactusLeaves"
+      },
+      {
+        "value": "CUSTOM:MahoganyLeaves"
+      },
+      {
+        "value": "CUSTOM:TeakLeaves"
+      },
+      {
+        "value": "CUSTOM:KapokLeaves"
+      },
+      {
+        "value": "CUSTOM:BeechFallLeaves"
+      },
+      {
+        "value": "CUSTOM:AspenFallLeaves"
+      },
+      {
+        "value": "CUSTOM:MapleFallLeaves"
       }
     ],
     "functions": [],

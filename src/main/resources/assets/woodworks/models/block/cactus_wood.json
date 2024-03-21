@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodworks:block/cactus_log_side",
+    "particle": "woodworks:block/cactus_log_side"
+  },
+  "render_type": "solid"
+}

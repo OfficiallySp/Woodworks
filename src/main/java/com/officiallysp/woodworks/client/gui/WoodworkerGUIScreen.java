@@ -29,8 +29,8 @@ public class WoodworkerGUIScreen extends AbstractContainerScreen<WoodworkerGUIMe
 		this.y = container.y;
 		this.z = container.z;
 		this.entity = container.entity;
-		this.imageWidth = 132;
-		this.imageHeight = 60;
+		this.imageWidth = 175;
+		this.imageHeight = 145;
 	}
 
 	private static final ResourceLocation texture = new ResourceLocation("woodworks:textures/screens/woodworker_gui.png");
@@ -67,7 +67,7 @@ public class WoodworkerGUIScreen extends AbstractContainerScreen<WoodworkerGUIMe
 
 	@Override
 	protected void renderLabels(GuiGraphics guiGraphics, int mouseX, int mouseY) {
-		guiGraphics.drawString(this.font, Component.translatable("gui.woodworks.woodworker_gui.label_woodworking"), 11, 8, -12829636, false);
+		guiGraphics.drawString(this.font, Component.translatable("gui.woodworks.woodworker_gui.label_woodworking"), 15, 5, -1, false);
 	}
 
 	@Override
@@ -79,7 +79,7 @@ public class WoodworkerGUIScreen extends AbstractContainerScreen<WoodworkerGUIMe
 	public void init() {
 		super.init();
 		button_process = Button.builder(Component.translatable("gui.woodworks.woodworker_gui.button_process"), e -> {
-		}).bounds(this.leftPos + 51, this.topPos + 32, 45, 20).build();
+		}).bounds(this.leftPos + 60, this.topPos + 32, 63, 20).build();
 		guistate.put("button:button_process", button_process);
 		this.addRenderableWidget(button_process);
 	}

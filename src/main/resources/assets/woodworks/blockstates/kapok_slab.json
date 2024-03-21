@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "woodworks:block/kapok_slab"
+    },
+    "type=top": {
+      "model": "woodworks:block/kapok_slab_top"
+    },
+    "type=double": {
+      "model": "woodworks:block/kapok_slab_full"
+    }
+  }
+}

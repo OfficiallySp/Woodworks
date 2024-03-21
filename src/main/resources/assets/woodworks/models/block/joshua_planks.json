@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodworks:block/joshua_planks",
+    "particle": "woodworks:block/joshua_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,4 +1,20 @@
 {
   "replace": false,
-  "values": []
+  "values": [
+    "woodworks:maple_planks",
+    "woodworks:pine_planks",
+    "woodworks:cedar_planks",
+    "woodworks:palm_planks",
+    "woodworks:mango_planks",
+    "woodworks:rubber_planks",
+    "woodworks:beech_planks",
+    "woodworks:willow_planks",
+    "woodworks:aspen_planks",
+    "woodworks:joshua_planks",
+    "woodworks:baobab_planks",
+    "woodworks:cactus_planks",
+    "woodworks:mahogany_planks",
+    "woodworks:teak_planks",
+    "woodworks:kapok_planks"
+  ]
 }

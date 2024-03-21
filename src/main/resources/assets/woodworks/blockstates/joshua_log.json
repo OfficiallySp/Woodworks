@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "woodworks:block/joshua_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "woodworks:block/joshua_log"
+    },
+    "axis=z": {
+      "model": "woodworks:block/joshua_log",
+      "x": 90
+    }
+  }
+}

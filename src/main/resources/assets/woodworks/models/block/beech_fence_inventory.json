@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "woodworks:block/beech_planks",
+    "particle": "woodworks:block/beech_planks"
+  },
+  "render_type": "solid"
+}

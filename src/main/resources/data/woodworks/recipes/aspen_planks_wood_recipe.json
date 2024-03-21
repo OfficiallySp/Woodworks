@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "woodworks:aspen_wood"
+    }
+  ],
+  "result": {
+    "item": "woodworks:aspen_planks",
+    "count": 4
+  }
+}

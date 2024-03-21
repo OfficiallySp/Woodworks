@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "woodworks:block/teak_planks"
+  },
+  "render_type": "solid"
+}

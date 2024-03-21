@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "woodworks:block/willow_planks",
+    "top": "woodworks:block/willow_planks",
+    "side": "woodworks:block/willow_planks"
+  },
+  "render_type": "solid"
+}

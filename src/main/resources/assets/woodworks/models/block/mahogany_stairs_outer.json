@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "woodworks:block/mahogany_planks",
+    "top": "woodworks:block/mahogany_planks",
+    "side": "woodworks:block/mahogany_planks"
+  },
+  "render_type": "solid"
+}

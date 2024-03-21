@@ -42,6 +42,7 @@ import com.officiallysp.woodworks.init.WoodworksModTabs;
 import com.officiallysp.woodworks.init.WoodworksModMenus;
 import com.officiallysp.woodworks.init.WoodworksModItems;
 import com.officiallysp.woodworks.init.WoodworksModBlocks;
+import com.officiallysp.woodworks.init.WoodworksModBlockEntities;
 
 @Mod("woodworks")
 public class WoodworksMod {
@@ -53,7 +54,7 @@ public class WoodworksMod {
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 		WoodworksModBlocks.REGISTRY.register(bus);
-
+		WoodworksModBlockEntities.REGISTRY.register(bus);
 		WoodworksModItems.REGISTRY.register(bus);
 
 		WoodworksModTabs.REGISTRY.register(bus);

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "woodworks:block/aspen_planks",
+    "top": "woodworks:block/aspen_planks",
+    "side": "woodworks:block/aspen_planks"
+  },
+  "render_type": "solid"
+}

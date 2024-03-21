@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "woodworks:block/teak_log_top",
+    "up": "woodworks:block/teak_log_top",
+    "north": "woodworks:block/teak_log_side",
+    "east": "woodworks:block/teak_log_side",
+    "south": "woodworks:block/teak_log_side",
+    "west": "woodworks:block/teak_log_side",
+    "particle": "woodworks:block/teak_log_top"
+  },
+  "render_type": "solid"
+}

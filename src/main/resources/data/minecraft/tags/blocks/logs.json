@@ -1,4 +1,21 @@
 {
   "replace": false,
-  "values": []
+  "values": [
+    "woodworks:maple_log",
+    "woodworks:pine_log",
+    "woodworks:cedar_log",
+    "woodworks:palm_log",
+    "woodworks:mango_log",
+    "woodworks:rubber_log",
+    "woodworks:beech_log",
+    "woodworks:willow_log",
+    "woodworks:aspen_log",
+    "woodworks:joshua_log",
+    "woodworks:baobab_log",
+    "woodworks:cactus_log",
+    "woodworks:mahogany_log",
+    "woodworks:teak_log",
+    "woodworks:kapok_log",
+    "woodworks:stripped_willow_log"
+  ]
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodworks:block/beech_leaves",
+    "particle": "woodworks:block/beech_leaves"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "woodworks:block/kapok_planks"
+  },
+  "render_type": "solid"
+}

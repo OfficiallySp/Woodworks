@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "wooden_stairs",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TeakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TeakPlanks"
+      },
+      {
+        "value": "CUSTOM:TeakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TeakPlanks"
+      },
+      {
+        "value": "CUSTOM:TeakPlanks"
+      },
+      {
+        "value": "CUSTOM:TeakPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TeakStairs"
+    },
+    "name": "teak_stairs_recipe",
+    "namespace": "mod"
+  }
+}

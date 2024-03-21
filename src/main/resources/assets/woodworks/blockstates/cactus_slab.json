@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "woodworks:block/cactus_slab"
+    },
+    "type=top": {
+      "model": "woodworks:block/cactus_slab_top"
+    },
+    "type=double": {
+      "model": "woodworks:block/cactus_slab_full"
+    }
+  }
+}

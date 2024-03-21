@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "woodworks:block/willow_planks",
+    "particle": "woodworks:block/willow_planks"
+  },
+  "render_type": "solid"
+}

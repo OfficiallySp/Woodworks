@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "woodworks:block/baobab_planks",
+    "top": "woodworks:block/baobab_planks",
+    "side": "woodworks:block/baobab_planks"
+  },
+  "render_type": "solid"
+}

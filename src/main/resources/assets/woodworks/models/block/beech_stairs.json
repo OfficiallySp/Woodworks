@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "woodworks:block/beech_planks",
+    "top": "woodworks:block/beech_planks",
+    "side": "woodworks:block/beech_planks"
+  },
+  "render_type": "solid"
+}

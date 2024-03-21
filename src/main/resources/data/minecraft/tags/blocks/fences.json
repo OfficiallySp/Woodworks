@@ -1,4 +1,20 @@
 {
   "replace": false,
-  "values": []
+  "values": [
+    "woodworks:maple_fence",
+    "woodworks:pine_fence",
+    "woodworks:cedar_fence",
+    "woodworks:palm_fence",
+    "woodworks:mango_fence",
+    "woodworks:rubber_fence",
+    "woodworks:beech_fence",
+    "woodworks:willow_fence",
+    "woodworks:aspen_fence",
+    "woodworks:joshua_fence",
+    "woodworks:baobab_fence",
+    "woodworks:cactus_fence",
+    "woodworks:mahogany_fence",
+    "woodworks:teak_fence",
+    "woodworks:kapok_fence"
+  ]
 }

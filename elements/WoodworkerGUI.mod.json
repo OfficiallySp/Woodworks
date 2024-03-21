@@ -3,10 +3,10 @@
   "_type": "gui",
   "definition": {
     "type": 1,
-    "width": 132,
-    "height": 60,
+    "width": 175,
+    "height": 145,
     "inventoryOffsetX": 0,
-    "inventoryOffsetY": 32,
+    "inventoryOffsetY": -10,
     "renderBgLayer": true,
     "doesPauseGame": false,
     "components": [
@@ -15,21 +15,21 @@
         "data": {
           "name": "label_woodworking",
           "text": {
-            "fixedValue": "Wood Working"
+            "fixedValue": "WoodWorking"
           },
           "color": {
-            "value": -12829636,
+            "value": -1,
             "falpha": 0.0
           },
-          "x": 159,
-          "y": 98
+          "x": 141,
+          "y": 53
         }
       },
       {
         "type": "inputslot",
         "data": {
           "inputLimit": {
-            "value": ""
+            "value": "Blocks.LOG"
           },
           "disablePlacement": {
             "fixedValue": false
@@ -39,8 +39,8 @@
             "fixedValue": false
           },
           "dropItemsWhenNotBound": true,
-          "x": 177,
-          "y": 125
+          "x": 159,
+          "y": 80
         }
       },
       {
@@ -57,8 +57,8 @@
             "fixedValue": false
           },
           "dropItemsWhenNotBound": true,
-          "x": 159,
-          "y": 116
+          "x": 141,
+          "y": 71
         }
       },
       {
@@ -69,8 +69,8 @@
             "fixedValue": false
           },
           "dropItemsWhenNotBound": true,
-          "x": 249,
-          "y": 125
+          "x": 258,
+          "y": 80
         }
       },
       {
@@ -79,10 +79,10 @@
           "name": "button_process",
           "text": "Process",
           "isUndecorated": false,
-          "width": 45,
+          "width": 63,
           "height": 20,
-          "x": 199,
-          "y": 122
+          "x": 186,
+          "y": 80
         }
       }
     ],

@@ -4,7 +4,56 @@
   "definition": {
     "type": "Blocks",
     "items": [],
-    "blocks": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MapleLog"
+      },
+      {
+        "value": "CUSTOM:PineLog"
+      },
+      {
+        "value": "CUSTOM:CedarLog"
+      },
+      {
+        "value": "CUSTOM:PalmLog"
+      },
+      {
+        "value": "CUSTOM:MangoLog"
+      },
+      {
+        "value": "CUSTOM:RubberLog"
+      },
+      {
+        "value": "CUSTOM:BeechLog"
+      },
+      {
+        "value": "CUSTOM:WillowLog"
+      },
+      {
+        "value": "CUSTOM:AspenLog"
+      },
+      {
+        "value": "CUSTOM:JoshuaLog"
+      },
+      {
+        "value": "CUSTOM:BaobabLog"
+      },
+      {
+        "value": "CUSTOM:CactusLog"
+      },
+      {
+        "value": "CUSTOM:MahoganyLog"
+      },
+      {
+        "value": "CUSTOM:TeakLog"
+      },
+      {
+        "value": "CUSTOM:KapokLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWillowLog"
+      }
+    ],
     "functions": [],
     "entities": [],
     "biomes": [],

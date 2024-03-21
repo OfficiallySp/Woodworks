@@ -7,6 +7,7 @@ import net.minecraftforge.items.IItemHandler;
 import net.minecraftforge.common.capabilities.ForgeCapabilities;
 
 import net.minecraft.world.level.block.entity.BlockEntity;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.inventory.Slot;
@@ -77,13 +78,18 @@ public class WoodworkerGUIMenu extends AbstractContainerMenu implements Supplier
 					});
 			}
 		}
-		this.customSlots.put(0, this.addSlot(new SlotItemHandler(internal, 0, 30, 36) {
+		this.customSlots.put(0, this.addSlot(new SlotItemHandler(internal, 0, 34, 33) {
 			private final int slot = 0;
+
+			@Override
+			public boolean mayPlace(ItemStack stack) {
+				return Blocks.OAK_LOG.asItem() == stack.getItem();
+			}
 		}));
-		this.customSlots.put(1, this.addSlot(new SlotItemHandler(internal, 1, 12, 27) {
+		this.customSlots.put(1, this.addSlot(new SlotItemHandler(internal, 1, 16, 24) {
 			private final int slot = 1;
 		}));
-		this.customSlots.put(2, this.addSlot(new SlotItemHandler(internal, 2, 102, 36) {
+		this.customSlots.put(2, this.addSlot(new SlotItemHandler(internal, 2, 133, 33) {
 			private final int slot = 2;
 
 			@Override
@@ -93,9 +99,9 @@ public class WoodworkerGUIMenu extends AbstractContainerMenu implements Supplier
 		}));
 		for (int si = 0; si < 3; ++si)
 			for (int sj = 0; sj < 9; ++sj)
-				this.addSlot(new Slot(inv, sj + (si + 1) * 9, -22 + 8 + sj * 18, -21 + 84 + si * 18));
+				this.addSlot(new Slot(inv, sj + (si + 1) * 9, 0 + 8 + sj * 18, -21 + 84 + si * 18));
 		for (int si = 0; si < 9; ++si)
-			this.addSlot(new Slot(inv, si, -22 + 8 + si * 18, -21 + 142));
+			this.addSlot(new Slot(inv, si, 0 + 8 + si * 18, -21 + 142));
 	}
 
 	@Override
